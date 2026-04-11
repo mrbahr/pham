@@ -33,33 +33,41 @@ def start_automated_scraper():
             
             page_num = 1
             total_items = 0
-            while page_num <= 50: 
+            
+            while True:
                 params = {"enable_search_side_filters": "1", "page": page_num}
-                response = requests.get(base_api_url, headers=headers, params=params, timeout=20)
-                
-                if response.status_code != 200: break
-                
-                data = response.json()
-                products = data.get('data', {}).get('products', [])
-                if not products: break
-                
-                for p in products:
-                    name_ar = p.get('name_ar', 'N/A')
-                    name_en = p.get('name_en', 'N/A')
-                    price = p.get('price', 0)
-                    stock = p.get('stock', 0)
-                    slug = p.get('slug', '')
-                    brand = p['brand'].get('name_en', 'N/A') if p.get('brand') else "N/A"
-                    cat = p['category'].get('name_en', 'N/A') if p.get('category') else "N/A"
+                try:
+                    response = requests.get(base_api_url, headers=headers, params=params, timeout=25)
+                    if response.status_code != 200:
+                        break
                     
-                    ingred = get_active_ingredient(slug) if slug else "N/A"
+                    data = response.json()
+                    products = data.get('data', {}).get('products', [])
                     
-                    writer.writerow([name_ar, name_en, price, brand, cat, ingred, stock, slug])
-                    total_items += 1
-                    time.sleep(0.3)
-                
-                print(f"Page {page_num} finished.")
-                page_num += 1
+                    if not products:
+                        break
+                    
+                    for p in products:
+                        name_ar = p.get('name_ar', 'N/A')
+                        name_en = p.get('name_en', 'N/A')
+                        price = p.get('price', 0)
+                        stock = p.get('stock', 0)
+                        slug = p.get('slug', '')
+                        brand = p['brand'].get('name_en', 'N/A') if p.get('brand') else "N/A"
+                        cat = p['category'].get('name_en', 'N/A') if p.get('category') else "N/A"
+                        
+                        ingred = get_active_ingredient(slug) if slug else "N/A"
+                        
+                        writer.writerow([name_ar, name_en, price, brand, cat, ingred, stock, slug])
+                        total_items += 1
+                        time.sleep(0.4)
+                    
+                    print(f"Page {page_num} finished. Total items: {total_items}")
+                    page_num += 1
+                    
+                except requests.exceptions.RequestException:
+                    time.sleep(5)
+                    continue
                 
         print(f"Successfully saved {total_items} items.")
     except Exception as e:
