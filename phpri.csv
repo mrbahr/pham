@@ -1,0 +1,501 @@
+﻿Name_AR,Name_EN,Price,Brand,Category,Active_Ingredients,Stock,Slug
+تمريض منزلي (انتظار لنهايه المحلول الوريدي واى خدمة 40ج لكل نصف ساعة),nursing care (waiting for the end of the intravenous solution and any service 40 l.e. for every 30 mins.),50,N/A,N/A,N/A,90000,nursing-care-waiting-for-the-end-of-the-intravenous-solution-and-any-service-40-le-for-every-30-mins
+تمريض منزلي (إعطاء محلول أوغذاء ف الرايل بدون تركيب رايل),nursing care (administering solution or food in the rail without installing rail),75,N/A,N/A,N/A,90000,nursing-care-administering-solution-or-food-in-the-rail-without-installing-rail
+جلسة استنشاق (بجهاز وبدون ماسك أو أدوية ),nebulization session (session with a device and without a mask or medications),150,N/A,N/A,N/A,90000,nebulization-session-session-with-a-device-and-without-a-mask-or-medications
+جلسة استنشاق (جلسة فقط بدون جهاز وبدون ماسك أو أدوية),"nebulization session (session only, without a device, without a mask or medications)",75,N/A,N/A,N/A,90000,nebulization-session-session-only-without-a-device-without-a-mask-or-medications
+تركيب محلول وريدي (تركيب فقط بدون تثبيت كانيولا),intravenous solution administration (insertion only without cannula fixation),80,N/A,N/A,N/A,90000,intravenous-solution-administration-insertion-only-without-cannula-fixation
+الحقن (فقط) في كانيولا مثبة,injection (only) in an assembled cannula,70,N/A,N/A,N/A,90000,injection-only-in-an-assembled-cannula
+الحقن (إعطاء حقنه وريد / عضل / تحت الجلد) + اختبار الحساسية,"injection (intravenous, intramuscular, or subcutaneous injection ) + allergy test",90,N/A,N/A,N/A,90000,injection-intravenous-intramuscular-or-subcutaneous-injection-allergy-test
+الحقن (إعطاء حقنه وريد / عضل / تحت الجلد),"injection (intravenous, intramuscular, or subcutaneous injection )",80,N/A,N/A,N/A,90000,injection-intravenous-intramuscular-or-subcutaneous-injection
+تركيب الكانيولا+ (محلول وريدي أو حقنة),cannula insertion + (intravenous solution or injection),150,N/A,N/A,N/A,90000,cannula-insertion-intravenous-solution-or-injection
+تركيب الكانيولا (بدون إعطاء حقنة أو تركيب محلول وريدي),cannula insertion (without intravenous solution administration or injection),100,N/A,N/A,N/A,90000,cannula-insertion-without-intravenous-solution-administration-or-injection
+قياس ضغط الدم (في المنزل),blood pressure monitoring (at home),70,N/A,N/A,N/A,90000,blood-pressure-monitoring-at-home
+قياس السكر (في المنزل),blood glucose monitoring (at home),70,N/A,N/A,N/A,90000,blood-glucose-monitoring-at-home
+اختبار حساسية فقط (بدون إعطاء حقنة),allergy test (without injection),80,N/A,N/A,N/A,90000,allergy-test-without-injection
+قياس نسبة أوكسجين (في المنزل),pulse oximetry (at home),70,N/A,N/A,N/A,89999,pulse-oximetry-at-home-1719159590
+تمريض منزلي (غيار جروح سطحية بدون فك غرز وبدون مستلزمات ),nursing care (changing superficial wounds bandage without removing stitches and without supplies),150,N/A,N/A,N/A,89999,nursing-care-changing-superficial-wounds-bandage-without-removing-stitches-and-without-supplies
+سرنجة كبار 3 سم,Syringe For Adult 3 Cm,3,N/A,N/A,N/A,16863,syringe-for-adult-3-cm
+سرنجة بدون الم 3 سم,Painless Syring 3 Cm,3,N/A,N/A,N/A,16862,painless-syring-3-cm
+ماء مذيب 5 مل,Solvent Water 5 ml,2.5,N/A,N/A,N/A,16459,solvent-water-5-ml
+سرنجة كبار 5 سم,Syringe For Adult 5 Cm,3.25,N/A,N/A,N/A,13610,syringe-for-adult-5-cm
+بلاستر جراحى كيور ايد 1000 قطعة طويل,Plaster (1000 Pieces) Cure-Aid Straight,1,N/A,N/A,N/A,13359,plaster-1000-pieces-cure-aid-straight
+وايت مناديل للجيب 10 مناديل,White Pocket 10 Tissues,2,,N/A,N/A,9433,white-pocket-10-tissues
+ماء مذيب 50 مل,Solvent Water 50 ml,2,N/A,N/A,N/A,8495,solvent-water-50-ml
+"ماسكو 5 سم, سرنجة دواء",Masco 5 Cm Syringe For Oral Syrup,5,,N/A,N/A,6963,masco-5-cm-syringe-for-oral-syrup
+سرنجة كبار 10 سم,Syringe For Adult 10 Cm,5,N/A,N/A,N/A,5477,syringe-for-adult-10-cm
+كونترولوك 40 مجم 14 قرص,Controloc 40 mg 14 Gastro-Resistant Tablets,188,,N/A,بانتوبرازول,4217,controloc-40-mg-14-gastro-resistant-tablets-1710362062
+صوديوم كلوريد 0.9% محلول للحقن الوريدي 500 مل بغطاء (انترا فارما),Sodium Chloride 0.9% Intravenous Infusion 500 ml With Cap (Intra Pharm),29.5,,N/A,كلوريد الصوديوم,3923,sodium-chloride-09-intravenous-infusion-500-ml-with-cap-intra-pharm-1719649684
+في دروب 2800 وحدة دولية/مل نقط بالفم 15 مل,Vidrop Oral Drops 15 ml,26,,N/A,N/A,3652,vidrop-oral-drops-15ml
+ماسكو جهاز نقل محاليل,Masco Infusion Set,15,,N/A,N/A,3520,infusion-set-gms-1736954012
+أوبليكس إن شراب 125 مل,Oplex - N Syrup 125 ml,31,,N/A,جوايفينيسين + أوكسوميمازين + بنزوات الصوديوم,3219,oplex-n-syrup-125-ml-1710361942
+اوجمنتين 1 جم 14 قرص,Augmentin 1 gm 14 Film Coated Tablets,210,,N/A,أموكسيسيلين + حمض الكلافولانيك,3094,augmentin-1-gm-14-film-coated-tablets-1710362362
+بانادول أدفانس 500 مجم 48 قرص مغلف,Panadol Advance 500 mg 48 Film Coated Tablets,92,,N/A,باراسيتامول,3042,panadol-advance-500-mg-48-tablets
+صوديوم كلوريد 0.9% محلول للحقن الوريدي 500 مل بغطاء (فبيكو),Sodium Chloride 0.9% Intravenous Infusion 500 ml With Cap (Fibco),26,,N/A,كلوريد الصوديوم,3008,sodium-chloride-09-intravenous-infusion-500-ml-with-cap-fibco
+دوليبران 1000 مجم 20 قرص,Doliprane 1000 mg 20 Tablets,60,,N/A,باراسيتامول,2926,doliprane-1000-mg-20-tablets
+ديوراميد غيار جروح غير منسوج عالي الأمتصاص 10/10 سم,"Duramid Wound Dressing, Highly Absorbent, 10/10 Cm",8,,N/A,N/A,2891,duramid-wound-dressing-highly-absorbent-1010-cm
+اسبرين بروتكت 100 مجم 30 قرص ذات كسوة معوية,Aspirin Protect 100 mg 30 Enteric Coated Tablets,78,,N/A,حمض الأسيتيل ساليسيليك,2763,aspirin-protect-100-mg-30-tablets-1701965119
+ميلجا أدفانس 30 قرص,Milga Advance 30 Tablets,150,,N/A,N/A,2672,milga-advance-30-tablets
+ألفينترن 30 قرص,Alphintern 30 Tablets,87,,N/A,كيموتربسين + التربسين,2477,alphintern-30-tablets-1710362011
+دكتور إيد بلاستر دائري 100 قطعة,Doctor Aid Sheer Spots 100 Spots,1,N/A,N/A,N/A,2449,plaster-100-pieces-cure-aid-circle
+ميكستارد 30 100 وحدة دولية/مل 10 مل 1 فيال,Mixtard 30 100 I.U./ml 10 ml 1 Vial,130,,N/A,الأنسولين البشري + الأنسولين الإيزوفان البروتامين البشري,2391,mixtard-30-hm-100-iuml-10ml-vial-1741443217
+ميثيل تكنو 1000 مكجم 30 فيلم قابل للذوبان بالفم,Methyltechno 1000 mcg 30 Oral Films,135,,N/A,N/A,2066,methyltechno-1000mcg-30-oral-film
+سيدوفاج 500 مجم 10 أقراص,Cidophage 500 mg 10 Tablets,11,,N/A,ميتفورمين,2056,cidophage-500-mg-10-tablets-1710362380
+بانادول لعلاج نزلات البرد الحادة 20 قرص مغلف,Panadol Acute Head Cold 20 Film Coated Tablets,62,N/A,N/A,برومفينيرامين + باراسيتامول + بسودوإفيدرين,2036,panadol-acute-head-cold-20-film-coated-tablets
+ليميتليس اوسوفورتين د3 ( 5000 و.د ) 20 قرص مغلف,Limitless Ossofortin D3 5000 I.U. 30 Tablets,115,,N/A,N/A,1889,limitless-ossofortin-d3-5000iu-30tab
+لاصقات عين للكبار,Eye Patch For Adults,1.5,N/A,N/A,N/A,1832,eye-patch-for-adults
+بانادول إكسترا مع تركيبة الأوبتيزورب 24 قرص مغلف,Panadol Extra With Opti Zorb Formulation 24 Film Coated Tablets,58,,N/A,باراسيتامول + كافيين,1827,panadol-extra-with-opti-zorb-formulation-24-film-coated-tablets
+سبازموديجستين 30 قرص,Spasmodigestin 30 Tablets,78,,N/A,ديسيكلومين هيدروكلوريد + باباين + بانكرياتين + سيميثكون,1803,spasmodigestin-30-tablets
+كيناكومب كريم موضعي 15 جرام,Kenacomb Topical Cream 15 gm,36,,N/A,جراميسيدين + نيومايسين + نيستاتين + تريامسينولون,1781,kenacomb-topical-cream-15-gm-1710362046
+أوتريفين نقط للأنف للكبار 15مل,Otrivin Nasal Drops For Adult 15 ml,24,,N/A,زايلوميتازولين,1754,otrivin-nasal-drops-for-adult-15-ml
+ديوراميد غيار جروح غير منسوج عالي الأمتصاص 20/10 سم,"Duramid Wound Dressing, Highly Absorbent, 10/20 Cm",12,,N/A,N/A,1754,duramid-wound-dressing-highly-absorbent-1020-cm
+كليكسان 4000 وحدة دولية (40 مجم)/0.4 مل 2 سرنجة مملوءة مسبقًا,Clexane 4000 I.U. (40 mg)/0.4 ml 2 Pre-Filled Syringes,311,,N/A,إنوكسابارين الصوديوم,1647,clexane-4000-iu-40-mg-2-prefilled-syringes-1710361877
+ديكساميثازون 8 مجم / 2 مل 3 أمبولات (أميرية),Dexamethasone 3 Ampoules (Amirya),36,,N/A,ديكساميثازون,1612,dexamethasone-3-ampoules-amirya
+ديفارول -اس 200000 وحدة دولية 2 مل أمبول,Devarol - S - 200.000 I.U 2 ml Ampoule,34,,N/A,N/A,1610,devarol-s-200000-iu-2ml-1701532188
+كونجستال 20 قرص,Congestal 20 Tablets,50,,N/A,كلورفينيرامين + باراسيتامول + سودوإيفيدرين,1609,congestal-20-tablets-1710362009
+سرنجة اطفال 3 سم,Syringe For Children 3 Cm,3,N/A,N/A,N/A,1605,syringe-for-children-3-cm
+سيتال 250 مجم / 5 مل شراب معلق 60 مل,Cetal 250 mg/5 ml Suspension 60 ml,31,,N/A,باراسيتامول,1587,cetal-250-mg5-ml-suspension-60-ml
+ليمتلس ألزايم ماكس 20 قرص,Limitless Allzyme Max 20 Tablets,145,,N/A,ألفا كيموتربسين + تربسين + بروميلين,1585,limitless-allzyme-max-20-tablets
+بلافيكس 75 مجم 28 قرص مغلف,Plavix 75 mg 28 Film Coated Tablets,311,,N/A,كلوبيدوغريل,1574,plavix-75-mg-28-film-coated-tablets-1710362003
+سرنجة انسولين 100 وحدة,Syringe Insulin 100 Units,3.5,N/A,N/A,N/A,1561,syringe-insulin-100iu
+أوميجا 3 بلس 30 كبسولة جيلاتينية رخوة,Omega -3 Plus 30 Soft Gelatin Capsules,135,,N/A,N/A,1553,omega-3-plus-30-capsules-1701532204
+أوستيوكير 30 قرص,Osteocare 30 Tablets,180,,N/A,N/A,1548,osteocare-30-tablet-1701532206
+فوار فروت فواكه 6 أكياس,Fawar-Fruit 5 gm 6 Packets,24,,N/A,حمض الستريك+بيكربونات الصوديوم+حمض التتار,1538,fawar-fruit-5-gm-6-packets
+كونكور 5 مجم 30 قرص مغلف,Concor 5 mg 30 Film Coated Tablets,72,,N/A,بيسوبرولول,1515,concor-5-mg-30-film-coated-tablets-1710362072
+ديبوفيت بي12 1000 ميكروجرام 5 أمبولات 1 مل,Depovit B12-1000 mcg/ml 5 Ampoules,85,,N/A,N/A,1494,depovit-b12-1000-mcg-5-ampoules-1-ml-1701532188
+كيور ايد لاصقات هيدروكولويد 24 قطعة,Cure Aid Hydrocolloid Spots For Acne & Cold Sores 24 Pieces,50,N/A,N/A,N/A,1472,cure-aid-hydrocolloid-spots-24-pieces
+بنادول كولد & فلو داى 24 قرص,Panadol Cold & Flu Day 24 Film Coated Tablets,76,,N/A,الباراسيتامول+الكافيين+فينيليفرين,1403,panadol-cold-flu-day-24-film-coated-tablets-1710362425
+برونشيكم إلكسير شراب 100 مل,Bronchicum Elixir Syrup 100 ml,78,,N/A,خلاصة الزعتر + خلاصة جذور زهرة الربيع,1371,bronchicum-elixir-syrup-100-ml
+دوفالاك 667 مجم/1 مل شراب 200 مل,Duphalac 667 mg/1ml 200 ml Syrup,143,,N/A,لاكتولوز,1369,duphalac-667-mg1ml-200-ml-syrup-1710362012
+لوسترال 50 مجم 20 قرص,Lustral 50 mg 20 Film Coated Tablets,136,,N/A,سيرترالين,1361,lustral-50-mg-20-film-coated-tablets
+فلاجيل 500 مجم 20 قرص,Flagyl 500 mg 20 Tablets,34,,N/A,ميترونيدازول,1345,flagyl-500-mg-20-tablets-1710362410
+ليمتليس أوميجا-3 فيش أويل 2000 مجم 30 كبسولة جيلاتينية رخوة,Limitless Omega-3 Fish Oil 2000 mg 30 Soft Gelatin Capsules,230,,N/A,N/A,1344,limitless-omega-3-fish-oil-30-capsule
+راني اف 20 مجم 6 اكياس,Rani-F 20 mg 6 Sachets,42,,N/A,بلورات المنثول+ميثيل ساليسيلات,1329,rani-f-20-mg-6-sachets-1710362029
+فيبراميسين 100 مجم 10 كبسولات,Vibramycin 100 mg 10 Capsules,65,,N/A,دوكسيسيكلين,1299,vibramycin-100-mg-10-capsules-1710361947
+تافانيك 500 مجم 5 أقراص مغلفة,Tavanic 500 mg 5 Film Coated Tablets.,192,,N/A,ليفوفلوكساسين,1297,tavanic-500-mg-5-film-coated-tablets-1710362019
+بانثينول 2% كريم 50 جرام,Panthenol 2% Cream 50 gm,80,,N/A,N/A,1289,panthenol-cream-50-gm-1692448075-1703074480
+سيفوتاكس 1 جم 1 فيال,Cefotax 1 gm Vial,43,,N/A,سيفوتاكسيم,1279,cefotax-1g-vial-1710361979
+فورتم 1 جم 1 فيال,Fortum 1 gm 1 Vial,106,,N/A,سيفتازيديم,1250,fortum-1-gm-1-vial
+كالسيكفولينون 10 مجم / 5 مل 1 أمبول,Calcifolinon 10 mg/ml 10 ml 1 Vial,128,,N/A,فولينيك اسيد,1248,calcifolinon-10mgml-10ml-1vail
+زيرتك 10 مجم 20 قرص,Zyrtec 10 mg 20 Tablets,100,,N/A,سيتيريزين,1229,zyrtec-10-mg-20-tablets-1710362136
+فاستاريل ام ار 35 مجم 30 قرص,Vastarel MR 35 mg 30 Modified Release Film Coated Tablets,175,,N/A,تريميتازدين,1229,vastarel-mr-35-mg-30-modified-release-film-coated-tablets-1710362269
+كتافلام 50 مجم 20 قرص,Cataflam 50 mg 20 Tablets,86,,N/A,ديكلوفيناك البوتاسيوم,1196,cataflam-50-mg-20-tablets-1710362123
+تلفاست 30مجم/5مل شراب 100 مل,Telfast 30 mg/5 ml Suspensoin 100 ml,50,,N/A,فيكسوفينادين,1194,telfast-30-mg5ml-suspensoin-100-ml
+"فيروجلوبين بي 12, 30 كبسولة",Feroglobin 30 Capsules,210,,N/A,N/A,1182,feroglobin-30-capsules-1701532191
+بروفين 600 مجم 30 قرص,Brufen 600 mg 30 Tablets,99,,N/A,ايبوبروفين,1166,brufen-600-mg-30-tablets-1710361899
+امبيزيم ج 30 قرص,Ambezim G 30 Enteric Coated Tablets,102,,N/A,كيموتربسين + التربسين,1162,ambezim-g-30-enteric-coated-tablets-1710362011
+سي-ريتارد 500 مجم 10 كبسولات,C-Retard 500 mg 10 Capsules,35,,N/A,N/A,1150,c-retard-500-mg-10-capsulessule
+دياميكرون إم آر 60 مجم 30 قرص معدل الانطلاق,Diamicron 60 MR 30 Modified Release Film Coated Tablets,156,,N/A,جليكلازيد,1147,diamicron-60-mr-30-tablets
+كولوفيرين د 30 قرص مغلف,Coloverin D 30 Film Coated Tablets,105,,N/A,ميبيفيرين + دايميثيكون,1142,coloverin-d-30-film-coated-tablets-1710362099
+زيثرون 500 مجم 5 أقراص مغلفة,Xithrone 500 mg 5 Film Coated Tablets,86,,N/A,أزيثرومايسين,1137,xithrone-500-mg-5-film-coated-tablets-1724582606
+فاين مناديل للجيب معقمة 10 مناديل,Fine Sterilized Pocket Tissue 10 Tissues,2.5,,N/A,N/A,1128,fine-sterilized-pocket-tissue-paper-pack-of-10-packs
+ماسك للوجه KN95 بدون فلتر,Face Mask Kn95 Without Filter,20,N/A,N/A,N/A,1126,face-mask-kn95-without-filter
+تلفاست 180 مجم 20 قرص,Telfast 180 mg 20 Tablets,160,,N/A,فيكسوفينادين,1124,telfast-180-mg-20-tablets-1710362159
+زيثروماكس 500 مجم 3 كبسولات,Zithromax 500 mg 3 Capsules,160,,N/A,أزيثرومايسين,1118,zithromax-500-mg-3-capsules
+ديكانست اس ار 20 قرص,Decancit SR 20 Tablets,42,,N/A,السيتريزين + السودوإيفيدرين,1115,decancit-sr-20-tablets
+نيزابكس شامبو 80 مل,Nizapex Shampoo 80 ml,68,,N/A,كيتوكونازول,1102,nizapex-shampoo-80-ml
+زوراكسون 1 جم فيال للحقن الوريدي,Xoraxon 1 gm I.V. 1 Vial,56,,N/A,سيفترياكسون,1099,xoraxon-1-gm-iv-1-vial
+كونتا فيفر ان 200 مجم/5 مل شراب 120 مل,Contafever N 200 mg/5 ml Suspension 120 ml,33,,N/A,N/A,1088,contafever-n-200-mg-5ml-120-ml-suspension
+نوستامين قطرة 15 مل,Nostamine Eye/Nose Drops 15 ml,22,,N/A,كلورفينييرامين+نافازولين,1088,nostamine-eyenose-drops-15-ml-1710362009
+جاناتون 50 مجم 30 قرص,Ganaton 50 mg 30 Tablets,90,,N/A,أيتوبريد,1085,ganaton-50-mg-30-tablets
+فاين فلافي مناديل بيضاء معقمة للوجه 480 منديل,Fine Fluffy White Sterilized Tissues 480 Tissues,30,,N/A,N/A,1085,fine-fluffy-white-sterilized-tissues-480-tissues
+مالتي فارما كحول إيثيلي 70% 120 مل,Multi Pharma Ethyl Alcohol 70% 120 ml,40,N/A,N/A,N/A,1081,multi-pharma-ethyl-alcohol-70-120-ml-1760171328
+نيفيلوب 5 مجم 21 قرص,Nevilob 5 mg 21 Tablets,99,,N/A,نيبيفولول,1078,nevilob-5-mg-21-tablets
+ماكسيلاز شراب 100 مل,Maxilase Syrup 100 ml,57,,N/A,ألفا الأميليز,1067,maxilase-syrup-100-ml-1710362371
+ميلجا 40 قرص مغلف,Milga 40 Film Coated Tablets,108,,N/A,N/A,1058,milga-40-film-coated-tablets
+بيكولاكس نقط بالفم 15 مل,Picolax 0.75% Oral Drops 15 ml,24,,N/A,صوديوم بيكوسلفات,1056,picolax-075-oral-drops-15-ml-1710361822
+اليكا ام كريم 30 جرام,Elica-M Cream 30 gm,52,,N/A,موميتازون فوروات + نترات ميكونازول,1025,elica-m-cream-30-gm-1710362406
+كاتافاست 50 مجم 9 اكياس,Catafast 50 mg 9 Sachets,72,,N/A,ديكلوفيناك البوتاسيوم,1016,catafast-50-mg-9-sachets-1710362122
+ديرماتول غيار جروح غير لاصق/ شاش فازلين 10/10 سم,"Dermatol Non-Adhesive Dressing, Vaseline Gauze 10/10Cm",8,,N/A,N/A,1003,dermatol-non-adhesive-dressing-vaseline-gauze-1010cm
+دالاسين سي 300 مجم 10 أقراص,Dalacin C 300 mg 10 Capsules,114,,N/A,كليندامايسين,999,dalacin-c-300-mg-10-capsules-1710362170
+بروفين 100 مجم/5 مل شراب 150 مل,Brufen 100 mg/5 ml Syrup 150 ml,44,,N/A,N/A,996,brufen-syrup-100-mg5-ml-150-ml
+كونكور كور 2.5 مجم 30 قرص مغلف,Concor Cor 2.5 mg 30 Film Coated Tablets,60,,N/A,بيسوبرولول,989,concor-cor-25-mg-30-film-coated-tablets-1710362072
+أنتينال 200 مجم 24 كبسولة,Antinal 200 mg 24 Capsules,52,,N/A,نيفوروكسازيد,986,antinal-200-mg-24-capsules-1710362357
+فيوسيدين كريم 15 جم,Fucidin Cream 15 gm,56,,N/A,حمض الفوسيديك,969,fucidin-cream-15-gm
+"نيل 15 لوشن للعناية بالأظافر, 15 مل",Nail 15 Lotion 15 ml,65,,N/A,N/A,969,nail-15-lotion-15-ml-1701964508
+يونيكتام 1.5 جرام فيال للحقن العضلي والحقن الوريدي,Unictam 1500 mg 1 Vial,56,,N/A,أمبيسيلين + سولباكتام,963,unictam-1500-mg-1-vial-1710362397
+فالفاست اختبار الحمل المبكر,Valfast Early Pregnancy Test,95,N/A,N/A,N/A,958,valfast-early-pregnancy-test
+فيوسيدرم كريم 15 جرام,Fusiderm 2% Cream 15 gm,44,,N/A,حمض الفوسيديك,943,fusiderm-2-cream-15-gm-1710362106
+ديمرا 20 قرص مغلف,Dimra 20 Film Coated Tablets,70,,N/A,ديكلوفيناك البوتاسيوم+الميثوكاربامول,933,dimra-20-film-coated-tablets-1710361958
+زنك اوليف كريم 75 جم,Zinc Olive Cream 75 gm,80,,N/A,N/A,932,zinc-olive-cream-75-gm
+كيتولاك 30 مجم (للحقن العضلي والتنقيط الوريدي) 5 أمبولات × 2 مل,Ketolac 30 mg (I.M Or I.V Infusion) 5 Ampoules × 2 ml,60,,N/A,كيتورولاك تروميثامين,930,ketolac-30-mg-im-or-iv-infusion-5-ampoules-2-ml-1710362221
+بيكوزيم 2 مل 12 امبول,Becozyme 2 ml 12 Ampoules,120,,N/A,N/A,929,becozyme-2-ml-12-ampoul-1701532182
+جاست ريج 200 مجم 30 قرص,Gast-Reg 200 mg 30 Tablets,84,,N/A,تريميبوتين,928,gast-reg-200-mg-30-tablets-1710361930
+أوميز 40 مجم 20 كبسولة,Omez 40 mg 20 Capsules,130,,N/A,أوميبرازول,926,omez-40-mg-20-capsules-1710361894
+نيفيلوب 2.5 مجم 14 قرص,Nevilob 2.5 mg 14 Tablets,46,,N/A,نيبيفولول,924,nevilob-25-mg-14-tablets-1710362356
+توسيسوب 30 مجم/5 مل شراب 100 مل,Tussistop 30 mg/5 ml Syrup 100 ml,49,,N/A,ليفودروبروبيزين,922,tussistop-30-mg5-ml-syrup-100-ml-1710362180
+دافلون 500 مجم 30 قرص مغلف,Daflon 500 mg 30 Film Coated Tablets,236,,N/A,ديوسمين + هيسبيريدين,921,daflon-500-mg-30-film-coated-tablets
+سولباسيف 1.5 جرام فيال للحقن العضلي او الوريدي,Sulbacef 1.5 gm (I.V/I.M) Injection Vial,123,,N/A,سيفوبيرازون + سولباكتام,907,sulbacef-15-gm-ivim-injection-vial-1710362299
+بيتاديرم كريم 0.1% 30 جم,Betaderm 0.1% Cream 30 gm,23,,N/A,بيتاميثازون,903,betaderm-01-cream-30-gm
+زوركال 40 مجم 28 قرص مقاوم للعصارة المعدية,Zurcal 40 mg 28 Gastro Resistant Tablets,192,,N/A,بانتوبرازول,902,zurcal-40-mg-28-tablets
+كيريلا لوشن 30 مل,Kerella Lotion 30 ml,31,,N/A,بيتاميثازون + حمض الساليسيليك,901,kerella-lotion-30-ml-1710362069
+بانتولوك 40 مجم 14 قرص مغلف معوي,Pantoloc 40 mg 14 Enteric Coated Tablets,102,,N/A,بانتوبرازول,898,pantoloc-40-mg-14-enteric-coated-tablets-1710362061
+سيفترياكسون 1 جم 1 فيال للحقن العضلى,Ceftriaxone 1 gm I.M. Vial,95,,N/A,سيفترياكسون,878,ceftriaxone-1-gm-im-vial-1710362325
+بارسيميانت 4 مجم 28 قرص,Barcimiant 4 mg 28 Tablets,2480,,N/A,باريسيتينيب,877,barcimiant-4-mg-28-tablets
+كونكور 5 بلس 30 قرص مغلف,Concor Plus 5/12.5 mg 30 Film-Coated Tablets,72,,N/A,بيسوبرولول+هيدروكلوروثيازيد,872,concor-plus-5125mg-30-film-coated-tablets
+جلوكوز 5% محلول للتنقيط الوريدي بغطاء 500 مل,Glucose 5% Intravenous Infusion With Cap 500 ml,29.5,,N/A,الجلوكوز,867,glucose-5-500-ml-with-cap-fibco
+سيلوكينزوك 50 مجم 28 قرص ممتد المفعول,Selokenzoc 50 mg 28 Prolonged Release Tablets,94,,N/A,ميتوبرولول,864,selokenzoc-50-mg-28-prolonged-release-tablets-1710362357
+ثيوتاسيد مركب 600 مجم 30 كابلت,Thiotacid Compound 600 mg 30 Caplets,249,,N/A,N/A,858,thiotacid-compound-600-mg-30-capsules
+يوريفين-ان حبيبات فوارة 10 أكياس,Urivin-N Effervescent Granules 10 Sachets,31,,N/A,كولشيسين+خيلين+بيبيرازين,857,urivin-effervescent-granules-10-sachets-1710362093
+هاي بيوتيك 1 جم 16 قرص,Hibiotic 1 gm 16 Tablets,173,,N/A,أموكسيسيلين + حمض الكلافولانيك,852,hibiotic-1-gm-16-tablets-1710362407
+أوتريفين نقط للأنف للأطفال 15 مل,Otrivin Nasal Drops Solution For Children 15 ml,24,,N/A,N/A,850,otrivin-nasal-drops-for-children-15ml-1703604711
+سرنجة 20 سم,Syringe 20 Cm,6.5,N/A,N/A,N/A,847,syringe-20-cm
+زيثرون 500 مجم 3 أقراص مغلفة,Xithrone 500 mg 3 Film Coated Tablets,63,,N/A,أزيثرومايسين,844,xithrone-500-mg-3-film-coated-tablets
+ليمتلس بي كومبلكس أو دي إف 30 فيلم سريع الذوبان في الفم,Limitless B Complex ODF 30 Oral Dispersible Films,135,,N/A,N/A,828,limitless-b-complex-odf-30-oral-dispersible-films
+فوليك اسيد 500 مكجم 20 قرص,Folic Acid 500 mcg 20 Tablets,40,,N/A,N/A,828,folic-acid-500mcg-20tablets
+بولي فريش 0.2% قطرة للعين 10 مل,Polyfresh Eye Drops 10 ml,63,,N/A,هيالورونات الصوديوم,824,polyfresh-eye-drops-10ml
+توبرادكس قطرة عين 5 مل,Tobradex Eye Drop 5 ml,76,,N/A,توبراميسين + ديكساميثازون,815,tobradex-5-ml-eye-drop
+جوسبرين 81 مجم 60 قرص مغلف معوي,Jusprin 81 mg 60 Enteric Coated Tablets,81,,N/A,حمض الأسيتيل ساليسيليك,814,jusprin-81-mg-60-enteric-coated-tablets-1710362027
+تامسولين 0.4 مجم 28 كبسولة معدلة الإطلاق,Tamsulin 0.4 mg 28 Modified Release Capsules,124,,N/A,تامسولوسين,808,tamsulin-28-capsules-1710361833
+اورسو بلس 20 كبسولة,Ursoplus 20 Capsules,174,,N/A,حمض الأرسوديوكسيكوليك + سيليمارين,793,ursoplus-20-capsules
+نوتوسيل شراب معلق 120 مل,Notussil 120 ml Suspension,71,,N/A,كلوبراستين,793,notussil-120-ml-suspension
+أوميز 20 مجم 14 كبسولة,Omez 20 mg 14 Capsules,56,,N/A,أوميبرازول,789,omez-20-mg-14-capsules-1710361894
+انتودين 40 مجم 30 قرص مغلف,Antodine 40 mg 30 Film Coated Tablets,93,,N/A,فاموتيدين,786,antodine-40-mg-30-film-coated-tablets-1710361987
+سيتال 100 مجم/مل نقط فموية 15 مل,Cetal 100 mg/ml Oral Drops 15 ml,23,,N/A,باراسيتامول,783,cetal-100-mgml-oral-drops-15-ml
+نازاكورت 55 ميكروجرام بخاخ للانف 120 جرعة,Nasacort AQ 55 mcg 120 Dose Spray,151,,N/A,تريامسينولون,775,nasacort-aq-55-mcg-120-dose-spray
+ميبو مرهم 15 جم,Mebo Ointment 15 gm,109,,N/A,بيتا-ستيتوستيرول,773,mebo-ointment-15-gm
+كليكسان 6000 وحدة دولية (60 مجم)/0.6 مل 2 سرنجة مملوءة مسبقًا,Clexane 6000 I.U. (60 mg)/0.6 ml 2 Pre-Filled Syringes,367,,N/A,إنوكسابارين الصوديوم,772,clexane-6000-iu-60-mg-2-prefilled-syringes-1710361876
+ترنتال إس آر 400 مجم 20 قرص مغلف,Trental 400 SR 20 Film Coated Tablets,128,,N/A,بنتوكسيفيلين,771,trental-400-sr-20-film-coated-tablets-1738657481
+نيوروفيت - 30 قرص,Neurovit 30 Tablets,102,,N/A,N/A,770,neurovit-30-tablet
+تريسيبا 100 وحدة/مل فليكس تاتش 1 قلم مملوء مسبقًا 3 مل,Tresiba 100 Units/ml Flextouch 1 Pre-Filled Pen 3 ml,550,,N/A,الأنسولين ديلوديك,766,tresiba-100-iuml-flextouch-pre-filled-pen-1710361764
+أيفيبرونت شراب 100 مل,Ivypront Syrup 100 ml,57,,N/A,أوراق اللبلاب,765,ivypront-syrup-100-ml-1722264606
+زيروفازيت 10/20 مجم 30 قرص مغلف,Zyrovazet 10 mg/20 mg 30 Film Coated Tablets,294,,N/A,إيزيتيميب+روزوفاستاتين,764,zyrovazet-10-mg20-mg-30-film-coated-tablets
+إبيكوبريد 5 مجم 30 قرص,Epicopred 5 mg 30 Tablets,69,,N/A,بريدنيزولون,760,epicopred-5-mg-30-tablets-1710361915
+نازونيكس بخاخ بالأنف 50 مكجم 120 مل,Nasonex Nasal Spray 50 mcg 120 ml,157,,N/A,موميتازون,758,nasonex-nasal-spray-50-mcg-120-ml-1710362191
+زيلون شراب 5 مجم/5 مل 100 مل,Xilone 5mg/5ml Syrup 100 ml,34,,N/A,بريدنيزولون,752,xilone-5mg5ml-syrup-100-ml-1710361926
+نيورونتين 300 مجم 20 كبسولة,Neurontin 300 mg 20 Capsules,108,,N/A,غابابنتين,748,neurontin-300-mg-20-capsules
+ديفلوكان 150 مجم 1 كبسولة,Diflucan 150 mg 1 Capsule,111,,N/A,فلوكونازول,739,diflucan-150-mg-1-capsule-1710362278
+ميوكوستا 100 مجم 20 قرص,Mucosta 100 mg 20 Tablets,114,,N/A,ريباميبيد,737,mucosta-100-mg-20-tablets
+ليفوهستام 5 مجم/10 مل شراب 120 مل,Levohistam Syrup 120 ml,39,,N/A,ليفوسيتيريزين,735,levohistam-syrup-120-ml
+داونوبرازول 40 مجم/1100 مجم 14 كبسولة,Downoprazol 40 mg/1100 mg 14 Hard Gelatin Capsules,95,,N/A,أوميبرازول+بيكربونات الصوديوم,732,downoprazol-40-mg1100-mg-14-hard-gelatin-capsules
+رواكول 45 كبسولة,Rowachol 45 Capsules,93,,N/A,ألفا بينين + بيتا بينين + بورنيول + كامفين + سينول + مينثول + مينثون,730,rowachol-45-capsules-1710362041
+"تيمبو كول لاصقات خافضة للحرارة للأطفال, 4 قطع","Tempo Cool Patches For Fever Children +1 Years, 4 Pieces",40,,N/A,N/A,727,tempo-cool-patches-for-fever-children-1-years-4-pieces
+بيكتول أقراص استحلاب بطعم البرتقال 240 قرص,Pectol Orange 240 Lozenges,25,,N/A,N/A,726,pectol-orange-sore-throat-relief-lozenges
+"هاند جيل كحول 70%, 80 مل",Hand Gel Alcohol 70 % 80 ml,16,N/A,N/A,N/A,725,hand-gel-alcohol-70-80-ml
+ستيرونات نور 5 مجم 20 قرص,Steronate Nor 5 mg 20 Tablets,56,,N/A,نوريثتيرون,725,steronate-nor-5-mg-20-tablets
+أوندالينز 4 مجم 5 افلام فموية,Ondalenz 4 mg 5 Oral Films,160,,N/A,أوندانسيترون,720,ondalenz-4-mg-5-oral-films
+كولشيسين 500 ميكروجرام 100 قرص,Colchicine 500 mcg 100 Tablets,190,,N/A,كولشيسين,720,colchicine-500-mcg-100-tablets
+شاش طبي 15 سم,Mediacal Gauze 15 Cm,9,N/A,N/A,N/A,717,mediacal-gauze-15-cm
+اندرال 10 مجم 50 قرص,Inderal 10 mg 50 Tablets,75,,N/A,بروبرانولول,714,inderal-10-mg-50-tablets-1710362031
+إيفا أسيتون مزيل طلاء الأظافر خالي من العطور 100 مل,Eva Acetone Fragrance Free 100 ml,50,,N/A,N/A,714,eva-acetone-nail-polish-remover-fragnance-free-100-ml
+ماكسوفاج إكس آر 1000 مجم 30 قرص ممتد المفعول,Maxophage XR 1000 mg 30 Extended Release Tablets,72,,N/A,ميتفورمين,711,maxophage-xr-1000-mg-30-extended-release-tablets
+إكسفورج اتش سي تي 12.5/160/5 مجم 14 قرص مغلف,Exforge HCT 5/160/12.5 mg 14 Film Coated Tablets,270,,N/A,أملوديبين+فالسارتان+هيدروكلوروثيازيد,710,exforge-hct-5-mg160-mg125-mg-14-film-coated-tablets-1710361844
+ابيدون شراب 125 مل,Apidone Syrup 125 ml,24,,N/A,كلورفينيرامين+ديكساميثازون,709,apidone-syrup-125-ml-1710362008
+كانيولا مقاس 24 لون اصفر,Cannula Size 24 Yellow,15,N/A,N/A,N/A,706,cannula-size-24-yellow
+ليمتلس مغنيسيوم 150 مجم 30 قرص مغلف,Limitless Magnesium 150 mg 30 Film Coated Tablets,210,,N/A,المغنيسيوم,701,limitless-magnesium-150-mg-30-tab
+الليربان شراب 100 مل,Allerban 1 mg / 5 ml Syrup 100 ml,33,,N/A,كيتوتيفين,695,allerban-1-mg-5-ml-syrup-100-ml
+نيوكاربون 30 كبسولة,Neocarbon 30 Capsules,185,,N/A,فحم نشط + زيت اليانسون + زيت النعناع,693,neocarbon-30-capsules
+زيرتك شراب 100 مل,Zyrtec Syrup 100 ml,51,,N/A,N/A,681,zyrtec-syrup-100-ml-1712087579
+تلفاست 120 مجم 20 قرص,Telfast 120 mg 20 Tablets,116,,N/A,فيكسوفينادين,679,telfast-120-mg-20-tablets-1710362160
+ماغنيسيوم بلس 30 قرص,Magnesium Plus 30 Tablets,45,,N/A,N/A,677,magnesium-plus-30-tab
+باي بروفينيد 150 مجم 20 قرص,Bi-Profenid 150 mg 20 Tablets,54,,N/A,كيتوبروفين,677,bi-profenid-150-mg-20-tablets-1710362172
+فيوسيكورت كريم 15 جم,Fucicort Cream 15 gm,60,,N/A,بيتاميثازون + حمض الفوسيديك,667,fucicort-cream-15-gm
+نبيليت 5 مجم 14 قرص,Nebilet 5 mg 14 Tablets,102,,N/A,نيبيفولول,664,nebilet-5-mg-14-tablets-1710362077
+توسكان شراب 100 مل,Tusskan Syrup 100 ml,24,,N/A,دكستروميتورفان + ديفينهيدرامين + ايفيدرين + جوايفينيسين,656,tusskan-syrup-100-ml-1710361952
+إيزاكارد 75 مجم 30 قرص مغلفة معوية,Ezacard 75 mg 30 Enteric Coated Tablets,51,,N/A,حمض الأسيتيل ساليسيليك,654,ezacard-75-mg-30-enteric-coated-tablets
+سياليس 20 مجم 4 أقراص مغلفة,Cialis 20 mg 4 Film Coated Tablets,474,,N/A,N/A,653,cialis-20-mg-4-tablets
+فيروترون 30 كبسولة,Ferrotron 30 Capsules,180,,N/A,N/A,651,ferrotron-30-capsules-1701532191
+جالفس مت 50 مجم/1000 مجم 30 قرص مغلف,Galvus Met 50 mg/1000 mg 30 Film Coated Tablets,315,,N/A,فيلداجليبتين + ميتفورمين,649,galvus-met-50-mg1000-mg-30-film-coated-tablets-1710362245
+دلتارينو بخاخ انف 15 مل,Deltarhino Nasal Spray 15 ml,30,,N/A,هيدروكلوريد الإفيدرين + نترات النافازولين,645,deltarhino-nasal-spray-15-ml-1710361897
+تكساكورت 0.1 % كريم موضعي 20 جم,Texacort 0.1% Cream 20 gm,22,,N/A,الهيدروكورتيزون,645,texacort-01-cream-20-gm-1710362288
+موكوفيلين شراب 125 مل,Mucophylline Syrup 125 ml,50,,N/A,أسيفيلين بيبرازين + برومهيكسين,642,mucophylline-syrup-125-ml
+فالجيستريل 21 قرص كسوة سكرية,Valgestril 21 Sugar Coated Tablets,34,,N/A,استراديول + نورجيستريل,641,valgestril-21-sugar-coated-tablets
+بولي فريش ادفانسد قطرة للعين 10 مل,Polyfresh Advanced Eye Drops 10 ml,160,,N/A,صوديوم هيالورونات + جلسرين + صوديوم كاربوكسي ميثيل سيليلوز,638,polyfresh-advanced-eye-drops-10-ml
+ليمتليس مان ماكس 30 قرص مغلف,Limitless Man Max 30 Tablets,240,,N/A,N/A,637,limitless-man-max-30tab
+سيلبريكس 200 مجم 15 كبسولة,Celebrex 200 mg 15 Capsules,198,,N/A,سيلكوكسيب,634,celebrex-200-mg-15-capsules-1710362173
+سيبرا برو 10 مجم 30 قرص مغلف,Cipra-Pro 10 mg 30 Film Coated Tablets,237,,N/A,إسيتالوبرام,632,cipra-pro-10-mg-30-film-coated-tablets-1710361908
+بلاستر طبي حرير 2.5 سم,Plaster Silk Blast 2.5 Cm,30,N/A,N/A,N/A,630,plaster-silk-blast-25-cm
+هايدروفوسيدك كريم 20 جم,Hydrofusidic Cream 20 gm,58,,N/A,حمض فوسيديك+الهيدروكورتيزون,629,hydrofusidic-cream-20-gm-1710362393
+وان تو ثري 20 قرص مغلف,One Two Three 20 Film Coated Tablets,40,,N/A,كلورفينيرامين + باراسيتامول + سودوإيفيدرين,623,one-two-three-20-tablets-1710362009
+بروفين 400 مجم 30 قرص,Brufen 400 mg 30 Tablets,78,,N/A,ايبوبروفين,623,brufen-400-mg-30-tablets
+هيرو فيتامين د3+ك2 نقط بالفم 10 مل,Hero Vitamin D3+K2 Oral Drop 10 ml,120,,N/A,فيتامين د3 + فيتامين ك2,621,hero-vitamin-d3-k2-oral-drop-10-ml
+سبيكتون 25 مجم 20 قرص,Spectone 25 mg 20 Tablets,36,,N/A,سبيرونولاكتون,617,spectone-25-mg-20-tablets-1710362351
+كانيولا مقاس 22 لون ازرق,Cannula Size 22 Blue,15,N/A,N/A,N/A,617,cannula-size-22-blue
+أوكتاترون 30 كبسولة,Octatron 30 Capsules,135,,N/A,N/A,616,octatron-30-capsules-1701532204
+أوندالينز 8 مجم 5 افلام فموية,Ondalenz 8 mg 5 Oral Films,265,,N/A,أوندانسيترون,612,ondalenz-8-mg-5-oral-films
+ليميتليس وومان ماكس 30 قرص,Limitless Woman Max 30 Tablets,240,,N/A,N/A,610,limitless-woman-max-30tab
+ماسكو ميد كيس جمع بول 2000 مل,Masco Mid Urinary Drainage Bag 2000 ml,15,,N/A,N/A,608,urine-collection-bag-1736954273
+ستاركوبريكس 5 مجم 30 قرص مغلف,Starkoprex 5 mg 30 Film Coated Tablets,252,,N/A,N/A,598,starkoprex-5-mg-30-film-coated-tablets
+إفيكسور اكس أر 150 مجم 14 كبسولة,Efexor -XR 150 mg 14 Capsules,230,,N/A,فينلافاكسين,596,efexor-xr-150-mg-14-capsules
+فينادون شراب 100 مل,Phenadone Syrup 100 ml,37,,N/A,كلورفينيرامين+ديكساميثازون,594,phenadone-syrup-100-ml
+أومنيك أوكاس 0.4 مجم 30 كبسولة,Omnic Ocas 0.4 mg 30 Modified Release Capsules,282,,N/A,تامسولوسين,593,omnic-ocas-04-mg-30-modified-release-capsules-1710362074
+هيرو أو آر إس محلول لحالات الجفاف المصاحب للإسهال و القيء بنكهة الفراولة 200 مل,Hero ORS Oral Rehydration Solution Strawberry Flavor 200 ml,115,,N/A,N/A,592,hero-ors-oral-rehydration-solution-strawberry-flavor-200-ml
+تريفلوكان 150 مجم 1 كبسول,Treflucan 150 mg 1 Capsule,28,,N/A,فلوكونازول,589,treflucan-150-mg-1-capsule-1710362277
+ياسمين 21 قرص,Yasmin 21 Tablets,205,,N/A,إيثينيل إستراديول + دروسبيرينون,587,yasmin-21-tablets
+درموفيت كريم 25 جم,Dermovate 0.05% Cream 25 gm,44,,N/A,بروبيونات كلوبيتاسول,584,dermovate-005-cream-25-gm-1710362063
+نايت كالم 3 مجم 30 قرص مغلف,Night Calm 3 mg 30 Film Coated Tablets,105,,N/A,إيزوبيكلون,582,night-calm-3-mg-30-film-coated-tablets-1710361803
+كونفينتين 300 مجم 30 كبسولة ممتدة المفعول,Conventin Xr 300 mg 30 Capsules,135,,N/A,غابابنتين,580,conventin-xr-300-mg-30-capsules
+بيفاتراسين بخاخ بودرة 150 مل,Bivatracin Aerosol Powder 150 gm,83,,N/A,باسيتراسين + نيومايسين,579,bivatracin-aerosol-powder-150-gm-1710362061
+تراي ميد فلو 20 قرص,Trimed Flu 20 Film Coated Tablets,58,,N/A,لوراتادين + باراسيتامول + سودوإيفيدرين,578,trimed-flu-20-film-coated-tablets-1710362176
+بيبيلاك 2 لبن أطفال بالحديد - 400 جم,Bebelac 2 Milk With Iron 400 gm,329,,N/A,N/A,576,bebelac-2-milk-with-iron-400gm
+ريلاكسون 30 كبسولة,Relaxon 30 Capsules,69,,N/A,كلورزوكسازون + باراسيتامول,576,relaxon-30-capsules-1710362006
+ثيوتاسيد أوريجينال 600 مجم 30 قرص,Thiotacid 600 Original 30 Tablets,245,,N/A,N/A,571,thiotacid-600-original-30-tablets
+سوفي فوط صحية سميكة طويلة جدًا بالمسك 14 قطعة × عبوتين,Sofy Maxi Thick Extra Long With Musk 14 Pads × 2 Packs,95,,N/A,N/A,571,sofy-maxi-extra-long-with-musk-14-pads-2-packs
+اتوريزا 20/10 مجم 21 قرص مغلف,Atoreza 10/20 mg 21 Film Coated Tablets,141,,N/A,إزيتيميب+أتورفاستاتين,571,atoreza-1020-mg-21-film-coated-tablets-1710362408
+زنكترون 30 كبسولة,Zinctron 30 Capsules,126,,N/A,N/A,566,zinctron-30-capsules-1701532218
+كونترولوك 20 مجم 14 قرص,Controloc 20 mg 14 Gastro-Resistant Tablets,100,,N/A,بانتوبرازول,566,controloc-20-mg-14-gastro-resistant-tablets-1710362061
+أتور 10 مجم 7 أقراص مغلفة,Ator 10 mg 7 Film Coated Tablets,45,,N/A,أتورفاستاتين,565,ator-10-mg-7-film-coated-tablets-1710362256
+رينجر محلول وريدي بغطاء 500 مل (فبيكو),Ringer Intravenous Infusion With Cap 500 ml (Fibco),26,,N/A,كلوريد الصوديوم+كلوريد البوتاسيوم+كلوريد الكالسيوم ديهيدرات,564,ringer-intravenous-infusion-with-cap-500-ml-fibco
+مويست وان كريم مرطب 100 مل,Moist-1 Cream 100 ml,180,,N/A,N/A,564,moist-1-moisturizing-cream-100ml
+بيور كحول ايثيلي 70% 70 مل,Pure Ethyl Alcohol 70% 70 ml,20,,N/A,N/A,563,pure-ethyl-alcohol-70
+انتيروجيرمينا 2 بليون/ 5 مل محلول عن طريق الفم 10 زجاجات صغيرة,Enterogermina 2 Billions/5 ml Oral Suspension 10 Mini Bottles,200,,N/A,باسيلوس كلاوسي,563,enterogermina-2-billion5ml-oral-suspension-10-mini-bottles
+فبيوريك 80 مجم 30 قرص,Feburic 80 mg 30 Tablets,139.5,,N/A,فيبوكسوستات,560,feburic-80-mg-30-tablets-1710362279
+بيتاديرم كريم موضعي 15 جم,Betaderm 0.1% Cream 15 gm,18,,N/A,بيتاميثازون,557,betaderm-01-cream-15-gm
+مالتي ريلاكس 5 مجم 20 قرص,Multi-Relax 5 mg 20 Tablets,36,,N/A,سيكلوبنزابرين,556,multi-relax-5-mg-20-tablets
+ليمتلس باور ماكس 30 قرص مغلف,Limitless Power Max 30 Film Coated Tablets,285,,N/A,N/A,555,limitless-power-max-30-film-coated-tablets-1727949765
+تادانيرفي 20 مجم 4 افلام تذوب سريعا,Tadanerfi 20 mg 4 Films Dissolvers Rapidly,126,,N/A,N/A,553,tadanerfi-20mg-4-films-dissolvers-rapidly
+انجكتمول 10 مجم/1 مل 1 فيال,Injectmol 10 mg/1 ml 1 Vial,67,,N/A,باراسيتامول,552,injectmol-10-mg1-ml-1-vial
+سايميثيكون نقط بالفم 30 مل,Simethicone Oral Drops 30 ml,24,,N/A,N/A,552,simethicone-oral-drops-30-ml
+بيبي تشيك اختبار الحمل,Baby Check Pregnancy Test,10,N/A,N/A,N/A,552,baby-check-pregnancy-test
+ميرونيم فيال 1 جم,Meronem 1 gm Vial,553,,N/A,ميروبينيم,547,meronem-1-gm-vial
+بيبيلاك 1 لبن أطفال بالحديد 400 جم,Bebelac 1 Milk With Iron 400 gm,329,,N/A,N/A,546,bebelac-1-milk-with-iron-400gm
+أتور 20 مجم 10 أقراص مغلفة,Ator 20 mg 10 Film Coated Tablets,79,,N/A,أتورفاستاتين,539,ator-20-mg-10-film-coated-tablets-1710362255
+كابل دياثيرمي,Diathermy Cables,55,N/A,N/A,N/A,533,diathermy-cables
+توبرين 0.3% قطرة للعين 5 مل,Tobrin 0.3% Eye Drops 5 ml,23,,N/A,توبراميسين,529,tobrin-03-eye-drops-5-ml
+تارج 80 مجم 14 قرص مغلف,Tareg 80 mg 14 Film Coated Tablets,148,,N/A,فالسارتان,526,tareg-80-mg-14-film-coated-tablets
+كارباميد كريم 30 جم,Carbamide Cream 30 gm,40,,N/A,N/A,526,carbamide-cream-30gm
+سيفترياكسون 1 جم 1 فيال للحقن الوريدي,Ceftriaxone 1 mg I.V. Vial,95,,N/A,سيفترياكسون,522,ceftriaxone-1-mg-iv-vial-1710362326
+كال ماج 30 قرص مغلف,Cal Mag 30 Film Coated Tablets,177,N/A,N/A,سيترات الكالسيوم+سيترات المغنيسيوم,522,cal-mag-30-film-coated-tablets-1710362000
+كابرون 500 مجم 20 قرص,Kapron 500 mg 20 Film Coated Tablets,110,,N/A,حمض الترانيكساميك,522,kapron-500-mg-20-film-coated-tablets-1700475339
+فليكس 50 ميكروجرام بخاخ بالأنف 16 جم,Flix Nasal Spray 50 mcg/Metered Spray Dose,76,,N/A,فلوتيكازون,521,flix-nasal-spray-50-mcgmetered-spray-dose
+هاي فريش نقط للعين 10 مل,Hyfresh 0.2% Eye Drops 10 ml,75,,N/A,هيالورونات الصوديوم,521,hyfresh-02-eye-drops-10-ml-1710361983
+أنتودين 20 مجم/2 مل 6 أمبولات,Antodine 20 mg/2 ml 6 Ampoules,78,,N/A,فاموتيدين,521,antodine-20-mg2-ml-6-ampoules
+ريجين 5% فوم للرجال - 73 مل,Regaine 5 For Men Foam 73 ml,610,,N/A,N/A,519,regaine-5-for-men-foam-73-ml
+جي تي ان كريم للبواسير 20 مجم,Gtn Cream 20 gm,48,N/A,N/A,إيزوسوربيد ثنائي النترات,519,gtn-cream-20-gm-1724916482
+موتيليوم 10 مجم 40 قرص,Motilium 10 mg 40 Tablets,100,,N/A,دومبيريدون,519,motilium-10-mg-40-tablets
+كليكسان 8000 وحدة دولية (80 مجم)/0.8 مل 2 سرنجة مملوءة مسبقًا,Clexane 8000 I.U. (80 mg)/0.8 ml 2 Pre-Filled Syringes,417,,N/A,إنوكسابارين الصوديوم,518,clexane-80-mg08-ml-2-prefilled-syringes
+سولوبريد أورو 20 مجم 20 قرص,Solupred 20 mg 20 Tablets,142,,N/A,بريدنيزولون,517,solupred-20-mg-20-tablets
+جليبتس 50 مجم/1000 مجم 30 قرص,Gliptus Plus 50/1000 mg 30 Tablets,192,,N/A,فيلداجليبتين + ميتفورمين,515,gliptus-plus-501000-mg-30-tablets-1710362285
+باي الكوفان 150 مجم 30 قرص,Bi-Alcofan 150 mg 30 Tablets,81,,N/A,كيتوبروفين,514,bi-alcofan-150-mg-30-tablets-1710362172
+بيكتول أقراص استحلاب بطعم الليمون 240 قرص,Pectol Lemon 240 Lozenges,25,,N/A,N/A,514,pectol-lemon-sore-throat-relief-lozenges
+بيونال 30 كبسولة,Bional 30 Capsules,192,,N/A,سيليمارين + مستخلص جذور استراغالوس + زنك + سيلينيوم + فيتامين سي + مسحوق ليسيثين,512,bional-30-capsules-1710361982
+رواتينكس 45 كبسولات جيلاتينية,Rowatinex 45 Soft Gelatin Capsules,93,,N/A,أنيثول + بورنيول + كامفين + سينيول + إيثافيرين + فنشون + بينين,510,rowatinex-45-soft-gelatin-capsules-1710362422
+زيلون فورت 10 مجم/5 مل شراب 100 مل,Xilone Forte 15 mg/5 ml Syrup 100 ml,69,,N/A,بريدنيزولون,507,xilone-forte-15-mg5-ml-syrup-100-ml-1710361926
+الفافيم 600 مجم 20 كبسولة,Alphavim 600 mg 20 Capsules,290,,N/A,N/A,506,alphavim-600-mg-20-capsules
+نيتروماك ريتارد 2.5 مجم 60 كبسولة,Nitromak Retard 2.5 mg 60 Capsules,96,,N/A,نيتروجليسيرين,504,nitromak-retard-25-mg-60-capsules-1710362414
+برونتوجيست 400 مجم 30 قمع مهبلى,Prontogest 400 mg 30 Vaginal Suppositories,372,,N/A,البروجسترون,503,prontogest-400-mg-30-vaginal-suppository-1710362426
+أوجمنتين 457 مجم/ 5 مل مسحوق لعمل معلق 70 مل,Augmentin 457 mg/5 ml Suspension 70 ml,137,,N/A,N/A,503,augmentin-457-mg5-ml-suspension-70-ml
+بلاستر طبي حرير 5 سم,Plaster Silk Blast 5 Cm,55,N/A,N/A,N/A,503,plaster-silk-blast-5-cm
+انسولين مكستارد 30/70 وحدة دولية 5 خراطيش,Insulin Mixtard Penfill 30/70 IU 5 Ampoules,338,,N/A,الأنسولين البشري + الأنسولين الإيزوفان البروتامين البشري,502,insulin-mixtard-penfill-3070-iu-5-ampoules
+ألبومين بشري 20% بيهرينج منخفض الملح 1 فيال 50 مل,Human Albumin 20% Behring Low Salt 1 Vial 50 ml,1450,N/A,N/A,البومين البشري,500,human-albumin-vial-50-ml
+ديجستن 20 قرص,Digestin 20 Tablets,42,,N/A,باباين + سانزيم 3500,498,digestin-20-tablets
+ميوبيراكس 2% مرهم 30 جرام,Mupirax 2% Ointment 30 gm,118,,N/A,موبروسين,497,mupirax-ointment-30-gm
+شاش طبي 5 سم,Mediacal Gauze 5 Cm,3,N/A,N/A,N/A,497,mediacal-gauze-5-cm
+ديرماتول غيار جروح غير لاصق/ شاش فازلين 10/20 سم,"Dermatol Non-Adhesive Dressing, Vaseline Gauze 10/20Cm",14,,N/A,N/A,496,dermatol-non-adhesive-dressing-vaseline-gauze-1020cm
+جينيرا 21 قرص,Gynera 21 Tablets,124,,N/A,الإيثين استراديول+الجستودين,495,gynera-21-tablets-1710362099
+بيتادين 10% محلول مطهر 120 مل,Betadine Antiseptic Solution 10% 120 ml,85,,N/A,N/A,495,betadine-antiseptic-soln-10-120-ml
+برافوتين 100 مجم 30 كيس,Pravotin 100 mg 30 Sachets,405,,N/A,N/A,493,pravotin-100-mg-30-sachets
+ديفاكوت اي ار 500 مجم 20 قرص,Divakote E.R 500 mg 20 Tablets,106,,N/A,ديفالبروكس الصوديوم,492,divakote-er-500-mg-20-tablets-1710361799
+فوستيمون فيال 150 وحده دولية تحت الجلد,Fostimon 150 I.U. I.M./S.C. Vial,1128,,N/A,يوروفوليتروبين,487,fostimon-150-iu-imsc-vial
+سي ريتارد + زنك 500 مجم 20 كبسولة,C - Retard + Zinc 500 mg 20 Capsules,80,,N/A,N/A,487,c-retard-zinc-20-capsules
+فاركولين محلول استنشاق 20 مل,Farcolin Respirator Solution 20 ml,37,,N/A,سالبوتامول,486,farcolin-respirator-solution-20-ml-1710362334
+ستربتوكين 20 قرص,Streptoquin 20 Tablets,46,,N/A,N/A,485,streptoquin-20-tablets-1710361845
+إنفينيتي أوميجا ار اكس أوميجا 3 (60 + 30 قطعة) علبتين,Omega Rx 60 Pieces + 30 Pieces 2 Boxes,240,,N/A,N/A,484,omega-rx-60-pieces-30-pieces-2-boxes
+سريبروليسين 5 أمبولات × 5 مل,Cerebrolysin 5 Ampoules × 5 ml,890,N/A,N/A,N/A,483,cerebrolysin-5-ampoules-5-ml-1710362243
+بيبزول 40 مجم 14 كبسولة,Pepzol 40 mg 14 Capsules,81,,N/A,أوميبرازول,480,pepzol-40-mg-14-capsules
+ديباكين كرونو 500 مجم 30 قرص,Depakine Chrono 500 mg 30 Tablets,144,,N/A,صوديوم فالبروات + حمض الفالبرويك,477,depakine-chrono-500-mg-30-tablets-1710362356
+ليفوهستام نقط بالفم 20 مل,Levohistam Oral Drops 20 ml,46,,N/A,ليفوسيتيريزين,475,levohistam-oral-drops-20-ml
+إكسفورج 160/5 مجم 14 قرص مغلف,Exforge 5/160 mg 14 Film Coated Tablets,218,,N/A,أملوديبين + فالسارتان,474,exforge-5mg160mg-14-film-coated-tablets
+فيوسيدين كريم 30 جم,Fucidin Cream 30 gm,96,,N/A,حمض الفوسيديك,474,fucidin-cream-30-gm
+أنتوبرال 40 مجم 14 قرص,Antopral 40 mg 14 Gastro-Resistant Tablets,126,,N/A,بانتوبرازول,471,antopral-40-mg-14-gastro-resistant-tablets-1710361914
+وان تو ثري شراب 120 مل,One Two Three Syrup 120 ml,32,,N/A,كلورفينيرامين + باراسيتامول + سودوإيفيدرين,470,one-two-three-syrup-120-ml-1710361911
+بون كير 0.5 ميكروجرام  30 كبسولة,Bone Care 0.5 mcg 30 Capsules,129,,N/A,N/A,467,bone-care-05mcg-30-cap-1701071505
+جليسرين 0.7 جرام للرضع 5 أقماع شرجية,Glycerin 0.7 gm For Infants 5 Rectal Suppositories,12,,N/A,N/A,466,glycerin-infants-5-suppositry-pharco-1691415588
+ريفو 320 مجم 10 أقراص* 20 شريط,Rivo 320 10 Tablets X 20 Strips,7.05,,N/A,حمض الأسيتيل ساليسيليك,464,rivo-320-10-tablets-x-20-strips
+بروكاسوفت 2 مجم 14 قرص,Prucasoft 2 mg 14 Tablets,118,,N/A,بروكالوبريد,464,prucasoft-2-mg-14-tablets
+موزابرايد 5 مجم 30 قرص,Mosapride 5 mg 30 Tablets,132,,N/A,موسابريد,464,mosapride-5-mg-30-tablets
+بارسيميانت 2 مجم 28 قرص,Barcimiant 2 mg 28 Tablets,1248,,N/A,باريسيتينيب,462,barcimiant-2-mg-28-tablets
+باور كابس 20 كبسولة,Power Caps 20 Capsules,40,,N/A,ايبوبروفين + السودوإيفيدرين,461,power-caps-20-capsules
+فينتوكف شراب بسكر 125 مل,Ventocough Syrup With Sugar 125 ml,30,,N/A,جوايفينيسين + سالبوتامول + برومهيكسين,460,ventocough-syrup-125-ml-with-sugar
+لاري برو أقراص استحلاب 20 قرص,Larypro 20 Tablets,44,,N/A,ديكوالينيوم + ليسوزيم,459,larypro-20-tablets
+فيوسيكورت كريم 30 جرام,Fucicort Cream 30 gm,100,,N/A,بيتاميثازون + حمض الفوسيديك,459,fucicort-cream-30-gm
+كالسيمات 500 مجم 12 كبسولة,Calcimate 500 mg 12 Capsules,20,,N/A,N/A,459,calcimate-500-mg-12-capsules-1718185817
+ستربسلز أقراص استحلاب عسل وليمون 24 قطعة,Strepsils Honey & Lemon 24 Lozenges,200,,N/A,N/A,458,strepsils-honey-lemon-24-lozenges
+كونترولوك 40 مجم بودرة لعمل محلول للحقن الوريدي,Controloc 40 mg Powder For I.V. Infusion Vial,146,,N/A,بانتوبرازول,456,controloc-40-mg-powder-for-iv-infusion-vial-1710361914
+جاراميسين 0.1% مرهم 15 جم,Garamycin 0.1% Ointment 15 gm,22,,N/A,جنتامايسين,449,garamycin-01-ointment-15-gm-1710361942
+ليفابيون 6 أمبولات للحقن العضلي,Livabion 6 Ampoules,96,,N/A,N/A,449,livabion-6-ampoules-1701532200-1707409698
+جولد بلس غسول نسائي للمنطقة الحميمة 250 مل,Gold Plus Intimate Cleanser 250 ml,100,,N/A,N/A,447,gold-plus-intimate-cleanser-250-ml
+سيجنال معجون اسنان مكافح التسوس 50 مل,Signal Cavity Fighter Toothpaste 50 ml,30,,N/A,N/A,445,signal-cavity-fighter-toothpaste-50-ml
+اورسوفالك 250 مجم 20 كبسولة,Ursofalk 250 mg 20 Capsules,122,,N/A,حمض الأرسوديوكسيكوليك,445,ursofalk-250-mg-20-capsules
+توبرادكس مرهم - 3.5جم,Tobradex Eye Ointment 3.5 gm,63,,N/A,توبراميسين + ديكساميثازون,444,tobradex-eye-ointment-35gm-1710362434
+روسيتور 10 مجم 14 قرص مغلف,Rositor 10 mg 14 Film Coated Tablets,58,,N/A,روزوفاستاتين,444,rositor-10-mg-14-film-coated-tablets-1710361960
+فيجاموكس نقط للعين 5مل,Vigamox Eye Drops 5 ml,128,,N/A,موكسيفلوكساسين,442,vigamox-eye-drops-5-ml
+ديامونركتا 5 مجم 30 قرص مغلفة,Diamonrecta 5 mg 30 Film Coated Tablets,187.5,,N/A,N/A,442,diamonrecta-5-mg-30-film-coated-tablets
+تريبسوكسير 30 قرص قابل للمضغ,Trypsoxir 10 Chewable Tablets,109,,N/A,N/A,440,trypsoxir-10-chewable-tablets
+تافاسين 500 مجم 5 أقراص مغلفة,Tavacin 500 mg 5 Film Coated Tablets,90,,N/A,ليفوفلوكساسين,439,tavacin-500mg-5-film-coated-tablets
+ماسك للوجه KN95 بفلتر,Face Mask Kn95 With Filter,25,N/A,N/A,N/A,439,face-mask-kn95-with-filter
+كلوبكس 75 مجم 30 قرص مغلف,Clopex 75 mg 30 Film Coated Tablets,150,,N/A,كلوبيدوغريل,438,clopex-75-mg-30-film-coated-tablets
+اكترابيد 100 وحدة دولية / مل 1 فيال 10 مل,Actrapid 100 IU/ml 1 Vial 10 ml,130,N/A,N/A,الأنسولين البشري,438,actrapid-100-iuml-1-vial-10-ml-1760438730
+وان تو ثري إكسترا 20 قرص مغلف,One Two Three Extra 20 Film Coated Tablets,50,,N/A,باراسيتامول + سودوإيفيدرين هيدروكلورايد + كلورفينيرامين ماليات,437,one-two-three-extra-20-film-coated-tablets
+نابيزول 40 مجم 1 فيال للحقن الوريدي,Napizole 40 mg I.V 1 Vial,60,,N/A,أوميبرازول,435,napizole-40-mg-iv-vial
+سوبراكس 400 مجم 5 كبسولات,Suprax 400 mg 5 Capsules,159,,N/A,سيفيكسيم,435,suprax-400-mg-5-capsules-1710362143
+بسكوبان 10 مجم 20 قرص,Buscopan 10 mg 20 Tablets,56,,N/A,هيوسين بوتيل بروميد,432,buscopan-10-mg-20-tablets
+أوروفكس - إتش غسول الفم 150 مل,Orovex - H Mouthwash 150 ml,175,,N/A,N/A,432,orovex-mouth-wash-h-150-ml-offer
+هيستازين1 10 مجم 20 قرص,Histazine-1 10 mg 20 Tablets,68,,N/A,سيتيريزين,431,histazine-1-10-mg-20-tablets
+كليريست 14 كبسولة,Clearest 14 Capsules,44,,N/A,السيتريزين + السودوإيفيدرين,430,clearest-14-capsules-1710361975
+ديرماكتيف أكتي ريبير سيكا كريم 50 مل,Dermactive Acti Repair Cica Cream 50 ml,195,,N/A,N/A,428,dermactive-acti-repair-cica-cream-50ml
+سبازيولانس62.5 مجم 20 فيلم قابل للذوبان,Spasulance 62.5 mg 20 Dispersible Film,90,,N/A,سيمثيكون,427,spasulance-625-mg-20-dispersible-film-1710362301
+كلافيموكس 1000 مجم 16 قرص مغلف,Clavimox 1000 mg 16 Film Coated Tablets,130,,N/A,أموكسيسيلين + حمض الكلافولانيك,426,clavimox-1000-mg-16-film-coated-tablets
+فينتال مركب بخاخ 200 جرعة,Vental Compositum Inhaler 200 Puffs,80,,N/A,بيكلوميثازون + سالبوتامول,426,vental-compositum-inhaler-200-puffs
+دوفاستون 10 مجم 60 قرص مغلف,Duphaston 10 mg 60 Film Coated Tablets,386,,N/A,ديدروجستيرون,426,duphaston-10-mg-60-film-coated-tablets-1710361949
+تربتيزول 25 مجم 30 قرص مغلف,Tryptizol 25 mg 30 Film Coated Tablets,33,,N/A,أميتريبتيل,426,tryptizol-25-mg-30-tablets-1710361891
+ايوكاربون 30 قرص,Eucarbon 30 Tablets,135,,N/A,الفحم+زيت الشمر+زيت النعناع+راوند+سينا+كبريت,425,eucarbon-30-tablets
+زيروفازيت 10/10 مجم 30 قرص مغلف,Zyrovazet 10 mg/10 mg 30 Film Coated Tablets,216,,N/A,إيزيتيميب+روزوفاستاتين,423,zyrovazet-10-mg10-mg-30-film-coated-tablets
+ابيليفاي 5 مجم 10 أقراص,Abilify 5 mg 10 Tablets,134.5,,N/A,أريبيبرازول,422,abilify-5-mg-10-tablets
+ميلاكريست 3 مجم 20 فيلم سريع الذوبان في الفم,Melacryst 3 mg 20 Oro-Dispersible Films,90,,N/A,الميلاتونين,422,melacryst-3-mg-20-oro-dispersible-films
+جونسون زيت للأطفال 75 مل,Johnson's Baby Oil 75 ml,70,,N/A,N/A,421,johnsons-baby-oil-75-ml
+فيلداجلوس بلس 50 مجم/1000 مجم 30 قرص مغلف,Vildagluse Plus 50/1000 30 Film Coated Tablets,147,,N/A,فيلداجليبتين + ميتفورمين,420,vildagluse-plus-501000-30-film-coated-tablets
+الكابرايد 50 مجم 30 قرص,Alkapride 50 mg 30 Tablets,90,,N/A,أيتوبريد,419,alkapride-50-mg-30-tablets
+فيسيرالجين 50 مجم 20 قرص مغلف,Visceralgine 50 mg 20 Film Coated Tablets,42,,N/A,تيمونيوم ميثيل سلفات,418,visceralgine-50-mg-20-film-coated-tablets-1710361835
+اسبوسيد 75 مجم 30 قرص,Aspocid 75 mg 30 Tablets,33,,N/A,حمض الأسيتيل ساليسيليك,418,aspocid-75-mg-30-tablets
+ديبروساليك لوشن 30 مل,Diprosalic Lotion 30 ml,43,,N/A,بيتاميثازون + حمض الساليسيليك,418,diprosalic-lotion-30-ml
+ميكوناز جل عن طريق الفم 20 جرام,Miconaz Oral Gel 20 gm,23,,N/A,ميكونازول,418,miconaz-oral-gel-20-gm-1710362196
+فياجرا 100 مجم 4 قرص مغلف,Viagra 100 mg 4 Film Coated Tablets,144,,N/A,N/A,418,viagra-100-mg-4-film-coated-tablets-1691497250
+كارفيد 6.25 مجم 30 قرص,Carvid 6.25 mg 30 Tablets,45,,N/A,كارفيديلول,417,carvid-625-mg-30-tablets
+كافسيد باراسيتامول للرضع 12 قمع شرجي,Coughsed Paracetamol Infants Rectal 12 Suppositories,42,N/A,N/A,N/A,416,coughsed-paracetamol-infants-12-suppositories
+ديوركس واقي ذكري بنكهة الفراولة 3 قطع,Durex Strawberry Flavoured Condom 3 Pieces,75,,N/A,N/A,416,durex-strawberry-condom-3-pieces
+سيفاكسون 1 جم 1 فيال للحقن الوريدي,Cefaxone 1gm I.V. Vial,69,,N/A,سيفترياكسون,415,cefaxone-1gm-iv-vial-1710362323
+جافيسكون سائل مضاعف القوة معلق للشرب 150 مل,Gaviscon Double Action Liquid Oral Suspension 150 ml,144,,N/A,بيكربونات البوتاسيوم + الجلوتينات الصوديوم,415,gaviscon-double-action-liquid-oral-suspension-150-ml
+سوفي فوط صحية سميكة طويلة بالمسك 16 قطعة,Sofy Maxi Long With Musk 16 Pads,95,,N/A,N/A,414,sofy-maxi-long-with-musk-16-pads
+نيكسيكور 40 مجم 30 قرص مغلف,Nexicure 40 mg 30 Film Coated Tablets,228,,N/A,إيزوميبرازول,414,nexicure-40-mg-30-film-coated-tablets
+شاش طبي 10 سم,Mediacal Gauze 10 Cm,5,N/A,N/A,N/A,414,mediacal-gauze-10-cm
+ايريوس 5 مجم 20 قرص مغلف,Aerius 5 mg 20 Film Coated Tablets,118,,N/A,ديسوراتادين,413,aerius-5-mg-20-film-coated-tablets
+كويتابكس 25 مجم 30 قرص,Quitapex 25 mg 30 Tablets,87,,N/A,كيتيابين,412,quitapex-25-mg-30-tablets
+ميبو مرهم 30 جم,Mebo Ointment 30 gm,190,,N/A,بيتا-ستيتوستيرول,411,mebo-ointment-30-gm-1710362401
+أكرتين 0.05% كريم موضعي 30 جرام,Acretin 0.05% Topical Cream 30 gm,43,,N/A,تريتينوين,409,acretin-005-cream-1700475340
+تيراميسين مرهم للعين 5 جرام,Terramycin Eye Ointment 5 gm,28,,N/A,أوكسيتيتراسيكلين + بوليميكسين,408,terramycin-eye-ointment-5-gm
+ايفيروسبان شراب 100 مل,Ivyrospan Syrup 100 ml,55,N/A,N/A,أوراق اللبلاب,408,ivyrospan-syrup-100-ml-1710362146
+سولوفريش 0.2 % قطرة للعين 10 مل,Solofresh 0.2% Eye Drops 10 ml,67,,N/A,هيالورونات الصوديوم,407,solofresh-02-eye-drops-10-ml-1710361983
+إيراستابكس بلس 20/12.5 مجم 30 قرص مغلف,Erastapex Plus 20 mg/12.5 mg 30 Film Coated Tablets,78,,N/A,أولميسارتان + هيدروكلوروثيازيد,407,erastapex-plus-20mg125mg-30-film-coated-tablets-1710361850
+اوراكيور جل فموي 30 جم,Oracure Oral Gel 30 gm,24,,N/A,كلوريد سيتيلبيريدينيوم+يدوكائين,403,oracure-oral-gel-30-gm-1710362353
+ايه آي جي ايزوميبرازول 40 مجم 28 كبسولة,AIG Esmeprazole 40 mg 28 Capsules,292,,N/A,إيزوميبرازول,402,aig-esmeprazole-40-mg-28-capsules
+اميجراويست 2.5 مجم 4 أقراص,Amigrawest 2.5 mg 4 Tablets,56,,N/A,زولميتريبتان,400,amigrawest-25-mg-4-tablets-1710362128
+ليفوهستام 5 مجم 30 قرص,Levohistam 30 Film Coated Tablets,117,,N/A,ليفوسيتيريزين,400,levohistam-30-film-coated-tablets
+هيدروكورتيزون 100 مجم فيال 2 مل,Hydrocortisone 100 mg 1 Vial,26,,N/A,الهيدروكورتيزون,400,hydrocortisone-100-mg-vial
+افيروزوليد 600 مجم 10 قرص مغلف,Averozolid 600 mg 10 Film Coated Tablets,231,,N/A,لينزوليد,399,averozolid-600-mg-10-film-coated-tablets-1710362021
+إكسفورج 160/10 مجم 14 قرص مغلف,Exforge 10/160 mg 14 Film Coated Tablets,218,,N/A,أملوديبين + فالسارتان,398,exforge-10-mg160-mg-14-film-coated-tablets-1710362377
+دوستينكس 0.5 مجم 2 قرص,Dostinex 0.5 mg 2 Tablets,172,,N/A,كابيرجولين,396,dostinex-05-mg-2-tablets-1710361997
+سوفي فوط صحية سميكة طويلة جدا جدا بالمسك 24 قطعة (2x12 عرض),Sofy Maxi Thick Super Extra Long With Musk 24 Pads (12X2 Offer),100,,N/A,N/A,395,sofy-maxi-thick-super-extra-long-with-musk-24-pads-12-x-2-offer
+أماريل 4 مجم 30 قرص,Amaryl 4 mg 30 Tablets,108,,N/A,جليمبيريد,395,amaryl-4-mg-30-tablets-1710362102
+إبيسيفين 1 جم 1 فيال للحقن الوريدي,Epicephin 1 gm I.V. 1 Vial,60,,N/A,سيفترياكسون,395,epicephin-1gm-iv-vial-1710362325
+جوانتي بلاستيك للاستعمال مرة واحدة - 100 قفاز,Disposable Plastic Gloves - 100 Pieces,8,N/A,N/A,N/A,395,disposable-plastic-gloves-100-pieces
+أبتاميل 2 تركيبة حليب الأطفال للمتابعة 400 جرام,Aptamil 2 Follow On Formula 400 gm,399,,N/A,N/A,395,aptamil-2-milk-6-12-400gm
+ميثيل فولات 800 / 1000 ميكرو جرام 30 كبسولة,Methyl Folate 800 mcg/1000 mcg 30 Capsules,120,,N/A,ميثيل فولات + ميثيل كوبالامين,394,methyl-folate-800-mcg1000-mcg-30-capsules
+كوليروز بلس 10/20 مجم 28 قرص مغلف,Cholerose Plus 10/20 mg 28 Film Coated Tablets,276,,N/A,إيزيتيميب+روزوفاستاتين,393,cholerose-plus-1020-mg-28-film-coated-tablets-1710361965
+كريستور 10 مجم 28 أقراص مغلفة,Crestor 10 mg 28 Film Coated Tablets,368,,N/A,روزوفاستاتين,393,crestor-10-mg-28-film-coated-tablets-1715772936
+انفيجا 100مجم 1 فيال,Invega Sustenna 100 mg 1 Syringe,3800,,N/A,بالايبردون,391,invega-sustenna-100-mg-1-syringe
+رونزا مناديل جيب مبللة 15 منديل,Ronza Wet Wipes 15 Wipes,10,,N/A,N/A,391,ronza-wet-wipes-15-wipes
+إبيكوبريد 20 مجم 20 قرص قابل للانتشار في الفم,Epicopred 20 mg 20 Tablets,104,,N/A,بريدنيزولون,391,epicopred-20-mg-20-tablets-1710362065
+سيكلوبروجينوفا 21 قرص,Cyclo-Progynova 21 Coated Tablets,76,,N/A,إستراديول فاليرات + نورجستريل,390,cyclo-progynova-21-coated-tablets
+الفيرينسبازم 24 كبسولة,Alverinspasm 24 Capsules,74,,N/A,سيترات الألفيرين + سيميثيكون,389,alverinspasm-24-capsules-1710362134
+دلتافيت بي 12 1000 مجم 30 قرص,Deltavit B12 1 mg 30 Sublingual Tablets,75,,N/A,N/A,388,deltavit-b12-1mg-30-sublingual-tabs
+إنتيروجيرمينا 4 بليون 5 مل 10 زجاجات صغيرة,Enterogermina 4 Billions/5 ml Oral Suspension 10 Mini Bottles,200,,N/A,جراثيم العصوية كلاوسي,388,enterogermina-4-billions5-ml-oral-suspension-10-mini-bottles
+نورميفرن بخاخ انف 20مل,Normifrin Nasal Spray 20 ml,26,,N/A,أوكسيمودازولين,387,normifrin-nasal-spray-20-ml
+أفيل 45.5 مجم/2 مل 6 أمبولات,Avil 45.5 mg/2 ml 6 Ampoules,57,,N/A,فينيرامين ماليات,387,avil-455mg2ml-6-ampoules
+ازيلاست بلس 125/50 مكجم بخاخ انف 25 مل,Azelast Plus 125/50 mcg Nasal Spray 25 ml,102,,N/A,أزيلاستين هيدروكلوريد + فلوتيكاسون بروبيونات,384,azelast-plus-12550-mcg-nasal-spray-25-ml
+فولتارين إيملجل 100 جم,Voltaren Emulgel 100 gm,101,,N/A,N/A,384,voltaren-emulgel-100-gm
+مولفيكس حفاضات للأطفال الكبار جونيور مقاس (5) 7 حفاضات,Molfix Junior Baby Diapers Size (5) 7 Pieces,54,,N/A,N/A,383,molfix-junior-baby-diapers-size-5-7-pieces
+ديكلاك اي دي 150 مجم 20 قرص ممتد المفعول,Diclac 150 ID 20 Prolonged Release Tablets,132,,N/A,ديكلوفيناك الصوديوم,383,diclac-150-i-d-20-tablets-1710361954
+أورلي 120 مجم 30 كبسولة,Orly 120 mg 30 Capsules,240,,N/A,N/A,382,orly-120-mg-30-cap
+سيفزيم 1 جم 1 فيال,Cefzim 1 gm 1 Vial,59,,N/A,سيفتازيديم,382,cefzim-1-gm-1-vial
+كوليروز 10 مجم 21 قرص مغلف,Cholerose 10 mg 21 Film Coated Tablets,102,,N/A,روزوفاستاتين,377,cholerose-10-mg-21-film-coated-tablets
+بيبيلاك اي سي حليب - 400 جم,Bebelac Ec Milk 400 Mg,357,,N/A,N/A,376,bebelac-ec-milk-400-mg
+ايكوزاليب 1 جرام 20 كبسولة جيلاتينية رخوة,Icosalip 1 gm 20 Soft Gelatin Capsules,276,,N/A,إيثيل ايكوزابنت,376,icosalip-1-gm-20-capsules-1710362027
+اسبوسيد 75 مجم للأطفال 30 قرص مضغ,Aspocid 75 mg Infant 30 Chewable Tablets,35,,N/A,حمض الأسيتيل ساليسيليك,373,aspocid-75-mg-infant-30-chewable-tablets-1710362105
+اسينشيال 300 مجم 30 كبسولة,Essentiale 300 mg 30 Capsules,195,,N/A,الفسفوليبيد الأساسي,373,essentiale-300-mg-30-capsules
+ابيماج بودرة فوارة 12 كيس,Epimag Effervescent Powder 12 Sachets,26,,N/A,سيترات المغنيسيوم,373,epimag-effervescent-powder-12-sachets-1750753931
+بيسكالدين 300 مجم 15 كبسولة,Piascledine 300 mg 15 Capsules,450,,N/A,الأفوكادو+فول الصويا,373,piascledine-300-mg-15-capsules-1710362353
+جاون طبى 25 جرام كم طويل,Gaon Medical 25G Long Sleeve,12,N/A,N/A,N/A,372,gaon-medical-25g-long-sleeve
+تريب جولد 30 قرص,Trib Gold 250 mg 30 Capsules,156,,N/A,N/A,371,trib-gold-250-mg-30-capsules-1701532215
+أوتال قطرة للأذن 5 مل,Otal Ear Drops 5 ml,19,,N/A,سينكوكايين + ديكساميثازون + فراميسيتين + جراميسيدين,371,otal-ear-drops-5-ml-1710362275
+يوثيروكس 25 مكجم 50 قرص,Euthyrox 25 mcg 50 Tablets,33,N/A,N/A,ليفوثيروكسين,371,euthyrox-25-ug-50-tablets
+إبيسيفين 1 جم 1 فيال للحقن العضلي,Epicephin 1 gm I.M. Vial,60,,N/A,سيفترياكسون,370,epicephin-1gm-im-vial-1710362405
+رويال جيلي 1000مجم 12 كبسولة,Royal Jelly 1000 mg 12 Capsules,88,,N/A,N/A,369,royal-jelly-1000-mg-12-capsules
+إيراستابكس 20 مجم 30 قرص مغلف,Erastapex 20 mg 30 Film Coated Tablets,75,,N/A,أولمسارتان,369,erastapex-20-mg-30-film-coated-tablets-1710362360
+فينوماكس كريم 30 جم,Vinomax Cream 30 gm,95,,N/A,مستخلص القرنفل، د-بانثينول، ثلاثي نترات الجليسريل، شمع العسل، زيت البارافين، حمض دهني، الفازلين، كحول سيتيل، ميثيل بارابين، بروبيل بارابين، ثلاثي إيثانول أمين,367,vinomax-cream-30-gm-1710362439
+بيبرا 20 مجم 28 قرص ذات كسوة معوية,Bepra 20 mg 28 Enteric Coated Tablets,206,,N/A,رابيبرازول,367,bepra-20mg-stomach-ulcer-heartburn
+فوميبريك 10 مجم 30 قرص,Vomibreak 10 mg/ 10 mg 30 Delayed Release Tablets,66,,N/A,دوكسيلامين سكسينات + فيتامين ب6,366,vomibreak-10-mg-10-mg-30-delayed-release-tablets-1710362295
+مالتي ريلاكس 10 مجم 20 قرص,Multi-Relax 10 mg 20 Tablets,42,,N/A,سيكلوبنزابرين,366,multi-relax-10-mg-20-tablets
+هيرو بيبي (1) لبن أطفال - 400 جم,Hero Baby 1 Milk 400 gm,269,,N/A,N/A,365,hero-baby-1-milk-400gm
+آميبريد 50 مجم 30 قرص,Amipride 50 mg 30 Tablets,111,,N/A,أميسولبريد,364,amipride-50-mg-30-tablets
+أيزوتريتينوين 20 مجم 30 كبسولات جيلاتينية رخوة,Isotretinoin 20 mg 30 Soft Gelatin Capsules,372,,N/A,الايزوتريتينوين,363,isotretinoin-20-mg-30-capsules
+تانتم فيرد 0.15% غسول للفم 125 مل,Tantum Verde Mouthwash 125 ml,31,,N/A,N/A,363,tantum-verde-015-mouth-wash-125-ml
+بيتولفكس - 1 ملجم لكل 1 ميلي- 2 أمبولة,Betolvex 1 mg/ml 2 Ampoule,64,,N/A,N/A,362,betolvex-1-mgml-2-ampule-1701071504
+فلاجيل 125 مجم/5 مل للأطفال شراب 100 مل,Flagyl 125 mg/5 ml Pediatric Suspension 100 ml,26,,N/A,ميترونيدازول,362,flagyl-125-mg5ml-100-ml-suspension-1710362411
+لوبريستيرا قطرة عين 15 مل,Lubristira Ophthalmic Solution 15 ml,83,,N/A,كارميلوز الصوديوم+هيالورونات الصوديوم+الجلسرين,362,lubristira-ophthalmic-solution-15-ml
+بيتادين 1% غسول للفم وغرغرة - 120 مل,Betadine Mouthwash Gargle 120 ml,75,,N/A,N/A,360,betadine-mouthwash-gargle-120-ml-1710753209
+كوليروز بلس 10/10مجم 28 قرص مغلف,Cholerose Plus 10/10 mg 28 Film Coated Tablets,172,,N/A,إيزيتيميب+روزوفاستاتين,360,cholerose-plus-1010-mg-28-film-coated-tablets
+فافرين 100 مجم 30 قرص,Faverin 100 mg 30 Tablets,261,,N/A,فلوفوكسامين,360,faverin-100-mg-30-tablets
+كيتوفان 50 مجم 30 كبسولة,Ketofan 50 mg 30 Capsules,45,,N/A,كيتوبروفين,358,ketofan-50-mg-30-capsules
+بيتاكور 80 مجم 30 قرص,Betacor 80 mg 30 Tablets,75,,N/A,سوتالول,358,betacor-80-mg-30-tablets-1710362360
+كولوفاتيل 30 قرص مغلف,Colovatil 30 Film Coated Tablets,63,,N/A,سولبيريد + هيدروكلوريد ميبيفيرين,356,colovatil-30-film-coated-tablets
+كلاريتين 10 مجم 20 قرص,Claritine 10 mg 20 Tablets,110,,N/A,لوراتادين,356,claritine-10-mg-20-tablets-1710362176
+اميجران ادكو 30 قرص مغلف,Amigraine Adco 30 Film Coated Tablets,93,,N/A,الكافيين + ديبيرون (ميتاميزول) + إرغوتامين,355,amigraine-adco-30-tablets
+انيماكس انيميا 120 مل,Enemax Enema 120 ml,40,,N/A,فوسفات الصوديوم,354,enemax-enema-120-ml-1710362156
+ميوكوسول 125 مجم/5 مل شراب للأطفال 120 مل,Mucosol 125 mg/5 ml Pediatric Syrup 120 ml,23,,N/A,N/A,354,mucosol-pediatric-syrup-120ml
+قطن طبي 250 جم,Medical Cotton 250 Gm,40,N/A,N/A,N/A,354,medical-cotton-250-gm
+تايجر باور لاصقة تخفيف الالم,Tiger Plaster 1 Piece,17,,N/A,كابسيسين,353,tiger-plaster-1-piece
+ليميتليس ميلجا ماكس 30 قرص,Limitless Milga Max 30 Tablets,248,,N/A,N/A,353,limitless-milga-max-30tablets-1701532199
+هيرو بيبي دايجست لبن أطفال - 400جم,Hero Baby Digest Milk 400 gm,379,,N/A,N/A,351,hero-baby-digest-milk-400gm
+إيراستابكس تريو 12.5/5/20 مجم 30 قرص مغلف,Erastapex Trio 20/5/12.5 mg 30 Film Coated Tablets,114,,N/A,أملوديبين + أولميسارتان + هيدروكلوروثيازيد,351,erastapex-trio-205125-mg-30-film-coated-tablets-1710362202
+روتابايريتيك 1 جرام/100 مل 1 فيال للحقن الوريدي,Rotapyretic 1gm/100 ml 1 Vial I.V,67,,N/A,باراسيتامول,351,rotapyretic-1gm100-ml-1-vial-iv
+نيلكس فيتامين د3 50000 وحدة دولية 4 أقراص,Nelex Vitamin D3 50000 IU 4 Tablets,280,,N/A,فيتامين د3,350,nelex-vitamin-d3-50000-iu-4-tablet
+تافاسين 750 مجم 5 أقراص مغلفة,Tavacin 750 mg 5 Film Coated Tablets,96,,N/A,ليفوفلوكساسين,350,tavacin-750-mg-5-tablets-1710362019
+سنجيولير 10 مجم 14 قرص,Singulair 10 mg 14 Tablets,192,,N/A,مونتيلوكاست,350,singulair-10-mg-14-tablets-1710362192
+بلينك قطرة للعين 10مل,Blink Eye Drops 10 ml,320,,N/A,هيالورونات الصوديوم+البولي إيثيلين جليكول,350,blink-eye-drops-10-ml
+علبة تحليل,Analysis Tray,3.5,N/A,N/A,N/A,350,analysis-tray
+سيبروديازول 500/500 مجم 20 قرص مغلف,Ciprodiazole 500/500 mg 20 Film Coated Tablets,148,,N/A,ميترونيدازول+سيبروفلوكساسين,348,ciprodiazole-500500-mg-20-film-coated-tablets-1710361971
+نيفيلوب بلس 12.5/5 مجم 20 قرص,Nevilob Plus 5/12.5 mg 20 Tablets,86,,N/A,نيبيفولول + هيدروكلوروثيازيد,348,nevilob-plus-5125-mg-20-tablets-1710362198
+كاندلكان 8 مجم 14 قرص مغلف,Candalkan 8 mg 14 Film Coated Tablets,48,,N/A,كانديسارتان سيليكسيتيل,348,candalkan-8-mg-14-film-coated-tablets
+سيتال 500 مجم 20 قرص,Cetal 500 mg 20 Tablets,24,,N/A,باراسيتامول,348,cetal-500-mg-20-tablets-1710362236
+جابتين 100 مجم 30 كبسولة ,Gaptin 100 mg 30 Capsules,81,,N/A,غابابنتين,348,gaptin-100-mg-30-capsules
+ميوكو اس ار 20 كبسولة,Muco S.R 20 Capsules,64,,N/A,أمبروكسول,348,muco-sr-20-capsules-1710362260
+داباجليف بلس اكس ار 10/1000 مجم 14 قرص,Dapaglif Plus 10 / 1000 mg XR 14 Tablets,180,,N/A,داباجليفلوزين + ميتفورمين,347,dapaglif-plus-10-1000-mg-xr-14-tablets
+ميتاكارديا إم أر 35 مجم 30 قرص,Metacardia MR 35 mg 30 Film Coated Tablets,60,,N/A,تريميتازدين,347,metacardia-mr-35mg-30-film-coated-tablets-1710362269
+سيجنال معجون اسنان مكافح التسوس 120 مل,Signal Cavity Fighter Toothpaste 120 ml,55,,N/A,N/A,346,signal-cavity-fighter-toothpaste-120-ml
+فبيوريك 40 مجم 20 قرص مغلف,Feburic 40 mg 20 Film Coated Tablets,76,,N/A,فيبوكسوستات,345,feburic-40-mg-20-film-coated-tablets
+شان لوشن للجسم 300 مل,Shaan Body Milk 300 ml,230,,N/A,N/A,344,shaan-body-milk-300-ml
+شفرات حلاقة الوجه و الحواجب 3 قطع.,Eyebrow Razor Shaving Facial Body Hair 3 Pieces,50,N/A,N/A,N/A,344,eyebrow-razor-shaving-facial-body-hair-3-pieces
+سيبانيون جل 15 جم,Sebanoin Gel 15 gm,33,,N/A,الاريثروميسين + الايزوتريتينوين,344,sebanoin-gel-15-gm
+أوتريفين بيبى سالين نقط للأنف 15 مل,Otrivin Baby Saline Nasal Drops 15 ml,20,,N/A,N/A,344,otrivin-baby-saline-15ml-nasal-drops
+ديرماكتيف اكتي كلير كريم جل لترطيب وإطفاء لمعان البشرة الدهنية والمختلطة 50 مل,Dermactive Acti Clear Hydra Mattifying Cream Gel Combination To Oily Skin 50 ml,195,,N/A,N/A,344,dermactive-acti-clear-hydra-mattifying-cream-gel-combination-to-oily-skin-50ml
+تريتاس 2.5 مجم 14 قرص,Tritace 2.5 mg 14 Tablets,54,,N/A,راميبريل,343,tritace-25-mg-14-tablets-1710362124
+لولا ويست 3 جرام 6 أكياس,Lolawest 6 Sachets,96,,N/A,أورنيثين أسبارتات,343,lolawest-6-sachets
+كيتولاك 10 مجم 20 قرص,Ketolac 10 mg 20 Tablets,38,,N/A,كيتورولاك تروميثامين,342,ketolac-10-mg-30-tablets-1710362011
+ميوكو شراب 100 مل,Muco Syrup 100 ml,35,,N/A,أمبروكسول,342,muco-15mg-syrup-100cc-1701071525
+ترمومتر زئبقي عريض,Mercuric Thermometer Thick,63,N/A,N/A,N/A,342,mercuric-thermometer-thick
+سبازمو بيرالجين - م 30 قرص ذو كسوة سكرية,Spasmopyralgin-M 30 Sugar Coated Tablets,63,,N/A,أنالجين+كاميلوفين,341,spasmopyralgin-m-30-sugar-coated-tablets
+بيتادين مطهر محلول 10% 60 مل,Betadine Antiseptic Solution 10% 60 ml,55,,N/A,N/A,341,betadine-antiseptic-solution-10-60-ml
+ليفسيت 5 مجم 20 قرص,Levcet 5 mg 20 Tablets,85,,N/A,ليفوسيتيريزين,340,levcet-5-mg-20-tablets
+بيتافوس 1 أمبول 2 مل,Betafos 1 Ampoule 2 ml,31,,N/A,بيتاميثازون دايبروبيونات + بيتاميثازون فوسفات الصوديوم,340,betafos-1-ampoule-2-ml-1710362115
+جونسون زيت للأطفال 200 مل,Johnson's Baby Oil 200 ml,130,,N/A,N/A,340,johnsons-baby-oil-200-ml
+لاميفين 1% كريم 15 جم,Lamifen Cream 15 gm,18,,N/A,N/A,339,lamifen-cream-15-gm
+مومينتا كريم 30 جم,Momenta Cream 30 gm,55,,N/A,جنتاميسين + ميكونازول + موميتاسون,337,momenta-cream-30-gm
+أماريل 3 مجم 30 قرص,Amaryl 3 mg 30 Tablets,87,,N/A,جليمبيريد,337,amaryl-3-mg-30-tablets-1710362101
+جالتين 100 مجم 10 أكياس,Galtin 100 mg 10 Sachets,120,N/A,N/A,N/A,336,galtin-100-mg-10-sachets
+برافاماكس 200 مجم 10 أقراص,Bravamax 200 mg 10 Tablets,122,,N/A,مودافينيل,336,bravamax-200-mg-10-tablets-1710361880
+ون كريم لإزالة الشعر للبشرة الحساسة 40 جرام,One Hair Removal Cream For Sensitive Skin 40 gm,24,,N/A,N/A,335,one-hair-removal-cream-for-sensitive-skin-with-chamomile-40-ml
+اليكويس 2.5 مجم 20 قرص مغلف,Eliquis 2.5 mg 20 Film Coated Tablets,532,,N/A,أبيكسابان,335,eliquis-25-mg-20-film-coated-tablets
+بيبيراسيلين تازوباكتام كابي 4 جرام/0.5 جرام بودرة لعمل محلول للتسريب الوريدي 1 فيال,Piperacillin Tazobactam Kabi 4 gm/0.5 gm Powder For Solution For Infusion 1 Vial,257,N/A,N/A,بايبراسيلين + تازوباكتام,335,piperacillin-tazobactam-kabi-4-gm-05-gm-powder-for-solution-for-infusion-1-vial
+لاصقات عين للأطفال,Eye Patch For Children,1.5,N/A,N/A,N/A,334,eye-patch-for-children
+سبينال برتقالى 25,Spinal 25,90,N/A,N/A,N/A,333,spinal-25-1700475521
+أنتينال 220 مجم /5 مل 60 مل معلق,Antinal 220 mg/5 ml Suspension 60 ml,24,,N/A,N/A,331,antinal-220-mg5-ml-60-ml-suspension
+كريستور 20 مجم 28 قرص مغلف,Crestor 20 mg 28 Film Coated Tablets,600,,N/A,روزوفاستاتين,331,crestor-20-mg-7-film-coated-tablets
+كانديستان كريم 40 جم,Candistan Cream 40 gm,36,,N/A,كلوتريمازول,330,candistan-cream-40-gm
+ليثيومود 400 مجم 30 قرص,Lithiomod 400 mg 30 Tablets,147,N/A,N/A,كربونات الليثيوم,330,lithiomod-400-mg-30-tablets
+غطاء قاعدة تواليت,Toilet Base Cover,15,N/A,N/A,N/A,330,toilet-base-cover
+جابا بلس شراب 120 مل,Gaba Plus Syrup 120 ml,299,N/A,N/A,N/A,329,gaba-plus-syrup-120-ml
+فولبرازال 40 مجم 14 كبسولة جيلاتينية صلبة,Fulprazal 40 mg 14 Hard Gelatin Capsules,118,,N/A,إيزوميبرازول,328,fulprazal-40-mg-14-capsules
+سنترم للسيدات 30 قرص,Centrum Women 30 Tablets,300,,N/A,المكملات الغذائية المتعددة الفيتامينات + المعادن,328,centrum-women-30-tablets
+روسيتور 20 مجم 14 قرص مغلف,Rositor 20 mg 14 Film Coated Tablets,80,,N/A,روزوفاستاتين,327,rositor-20-mg-14-film-coated-tablets-1710361960
+لوبريكوف شراب  100 مل,Loprecough Syrup 100 ml,45,,N/A,ن-أسيتيل إل-سيستين+كلورفينامين,327,loprecough-syrup-100-ml-1691415587
+هيرو بيبي نيوتراسينس (اش ام أو) (1) لبن أطفال - 400جم,Hero Baby Nutrasense 1 Hmo Milk 400gm,399,,N/A,N/A,327,hero-baby-nutrasense-1-hmo-milk-400gm
+بيرفورما اكسترا سترينث 5% محلول موضعي 60 مل,Performa Extra Strength 60ml,156,,N/A,N/A,326,performa-extra-strength-60ml
+صوديوم كلوريد 0.9 % + ديكستروز 5 % محلول للتسريب الوريدي 500 مل (فبيكو),Sodium Cloride 0.9% + Dextrose 5% For I.V. Infusion 500 ml (Fibco),30,,N/A,كلوريد الصوديوم+سكر العنب,326,sodium-cloride-09-dextrose-5-for-iv-infusion-500-ml-fibco
+سيربروماب 200 مجم 30 كبسولة,Cerebromap 200 mg 30 Capsules,225,,N/A,نافتيدروفوريل,325,cerebromap-200-mg-30-tablets-1710362352
+إكستروما دي إن إيه فورت جل 280 وحدة دولية 40 جرام,Extrauma DNA Forte Gel 420 IU 40 gm,58,,N/A,هيرودين,324,extrauma-forte-dna-gel-420-iu-40-gm
+مالوكس شراب معلق 250 مل,Maalox Oral Suspension 250 ml,143,,N/A,هيدروكسيد الألومنيوم+هيدروكسيد المغنيسيوم+سيمثيكون,324,maalox-suspension-250-ml
+ابياو 4000 وحدة دولية 1 فيال,Epiao 4000 I.U. 1 Vial,155,N/A,N/A,إريثروبويتين ألفا,324,epoetin-4000-iu-1-vial
+دايجست ايزي 20 كبسولة,Digest Eze 20 Capsules,94,,N/A,بروميلين + بابين + بابونج + جذر الزنجبيل + أوراق النعناع + نكهة اليانسون,323,digest-eze-20-capsules-1710362358
+دايجينورم شراب 120 مل,Digenorm Syrup 120 ml,55,,N/A,N/A,322,digenorm-syrup-120-ml
+نورفاسك 10 مجم 15 قرص,Norvasc 10 mg 15 Tablets,96,,N/A,أملوديبين,321,norvasc-10-mg-15-tablets-1710362407
+تيبوفورتين 80 مجم 30 قرص,Tebofortin Forte 80 mg 30 Tablets,165,,N/A,N/A,320,tebofortin-forte-80-mg-30-tablets
