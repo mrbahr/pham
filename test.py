@@ -26,6 +26,8 @@ def get_active_ingredient(slug):
 
 def start_automated_scraper():
     filename = 'phpri.csv'
+    print(f"🚀 Automated Scrape Started. Saving to {filename}")
+    
     try:
         with open(filename, mode='w', newline='', encoding='utf-8-sig') as file:
             writer = csv.writer(file)
@@ -53,8 +55,12 @@ def start_automated_scraper():
                         price = p.get('price', 0)
                         stock = p.get('stock', 0)
                         slug = p.get('slug', '')
-                        brand = p['brand'].get('name_en', 'N/A') if p.get('brand') else "N/A"
-                        cat = p['category'].get('name_en', 'N/A') if p.get('category') else "N/A"
+                        
+                        brand_data = p.get('brand')
+                        brand = brand_data.get('name_en', 'N/A') if isinstance(brand_data, dict) else "N/A"
+                        
+                        cat_data = p.get('category')
+                        cat = cat_data.get('name_en', 'N/A') if isinstance(cat_data, dict) else "N/A"
                         
                         ingred = get_active_ingredient(slug) if slug else "N/A"
                         
@@ -68,7 +74,7 @@ def start_automated_scraper():
                 except requests.exceptions.RequestException:
                     time.sleep(5)
                     continue
-                
+            
         print(f"Successfully saved {total_items} items.")
     except Exception as e:
         print(f"Error: {e}")
